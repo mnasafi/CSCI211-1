@@ -1,0 +1,4011 @@
+1: s601 entered store
+1: s619 entered store
+3: s152 entered store
+3: s382 entered store
+3: s836 entered store
+3: s935 entered store
+4: s508 entered store
+6: s649 entered store
+7: s246 entered store
+7: s831 entered store
+9: s313 entered store
+10: s587 entered store
+11: s278 entered store
+11: s941 entered store
+12: s413 entered store
+13: s602 entered store
+18: s442 entered store
+18: s621 entered store
+19: s495 entered store
+20: s48 entered store
+22: s132 entered store
+22: s208 entered store
+22: s214 entered store
+23: s602 done shopping
+23: s602 started checkout with checker 0
+24: s656 entered store
+26: s197 entered store
+28: s602 paid $15 for 5 items to checker 0
+29: s935 done shopping
+29: s935 started checkout with checker 0
+30: s63 entered store
+30: s391 entered store
+31: s228 entered store
+31: s258 entered store
+33: s294 entered store
+34: s142 entered store
+34: s905 entered store
+34: s621 done shopping
+34: s621 started checkout with checker 1
+35: s708 entered store
+35: s941 done shopping
+35: s941 started checkout with checker 2
+36: s505 entered store
+36: s649 done shopping
+36: s649 started checkout with checker 3
+37: s90 entered store
+37: s135 entered store
+38: s343 entered store
+38: s442 done shopping
+38: s442 started checkout with checker 4
+42: s265 entered store
+42: s935 paid $39 for 13 items to checker 0
+42: s621 paid $24 for 8 items to checker 1
+43: s373 entered store
+43: s801 entered store
+43: s910 entered store
+44: s571 entered store
+44: s754 entered store
+44: s855 entered store
+45: s278 done shopping
+45: s801 done shopping
+45: s278 started checkout with checker 0
+45: s801 started checkout with checker 1
+46: s432 entered store
+46: s801 paid $3 for 1 item to checker 1
+47: s140 entered store
+47: s961 entered store
+47: s941 paid $36 for 12 items to checker 2
+48: s442 paid $30 for 10 items to checker 4
+50: s222 entered store
+50: s643 entered store
+51: s149 entered store
+51: s451 entered store
+51: s932 entered store
+51: s649 paid $45 for 15 items to checker 3
+52: s889 entered store
+53: s687 entered store
+54: s828 entered store
+55: s209 entered store
+55: s313 done shopping
+55: s135 done shopping
+55: s313 started checkout with checker 1
+55: s135 started checkout with checker 2
+56: s240 entered store
+56: s904 entered store
+56: s508 done shopping
+56: s508 started checkout with checker 3
+58: s172 entered store
+58: s205 entered store
+58: s559 entered store
+58: s589 entered store
+59: s827 entered store
+60: s4 entered store
+60: s190 entered store
+60: s259 entered store
+61: s30 entered store
+61: s152 done shopping
+61: s152 started checkout with checker 4
+62: s278 paid $51 for 17 items to checker 0
+63: s89 entered store
+63: s523 entered store
+64: s257 entered store
+64: s418 entered store
+64: s904 done shopping
+64: s135 paid $27 for 9 items to checker 2
+64: s904 started checkout with checker 0
+65: s152 stole $130 and 29 items from checker 4
+67: s498 entered store
+68: s9 entered store
+68: s904 paid $12 for 4 items to checker 0
+70: s11 entered store
+70: s686 entered store
+70: s782 entered store
+72: s92 entered store
+72: s316 entered store
+72: s782 done shopping
+72: s782 started checkout with checker 0
+73: s256 entered store
+73: s557 entered store
+73: s782 paid $3 for 1 item to checker 0
+75: s944 entered store
+78: s35 entered store
+78: s313 paid $69 for 23 items to checker 1
+79: s883 entered store
+82: s281 entered store
+82: s289 entered store
+82: s413 done shopping
+82: s508 paid $78 for 26 items to checker 3
+82: s413 started checkout with checker 0
+84: s35 done shopping
+84: s35 started checkout with checker 1
+85: s99 entered store
+86: s828 done shopping
+86: s828 started checkout with checker 2
+87: s411 entered store
+87: s502 entered store
+87: s601 done shopping
+87: s35 paid $9 for 3 items to checker 1
+87: s601 started checkout with checker 1
+88: s172 done shopping
+88: s172 started checkout with checker 3
+89: s233 entered store
+89: s404 entered store
+89: s992 entered store
+90: s425 entered store
+90: s660 entered store
+90: s205 done shopping
+90: s289 done shopping
+90: s205 started checkout with checker 4
+90: s289 started checkout with checker 5
+91: s182 entered store
+92: s17 entered store
+92: s449 entered store
+93: s373 done shopping
+93: s373 started checkout with checker 6
+94: s289 paid $12 for 4 items to checker 5
+96: s98 entered store
+96: s403 entered store
+96: s190 done shopping
+96: s190 started checkout with checker 5
+97: s992 done shopping
+97: s992 started checkout with checker 7
+98: s41 entered store
+98: s208 done shopping
+98: s208 started checkout with checker 8
+99: s496 entered store
+100: s322 entered store
+101: s992 paid $12 for 4 items to checker 7
+102: s418 done shopping
+102: s828 paid $48 for 16 items to checker 2
+102: s418 started checkout with checker 2
+103: s294 done shopping
+103: s172 paid $45 for 15 items to checker 3
+103: s294 started checkout with checker 3
+106: s63 done shopping
+106: s259 done shopping
+106: s418 stole $211 and 19 items from checker 2
+106: s205 paid $48 for 16 items to checker 4
+106: s63 started checkout with checker 2
+106: s259 started checkout with checker 4
+108: s475 entered store
+108: s773 entered store
+108: s822 entered store
+108: s878 entered store
+108: s132 done shopping
+108: s656 done shopping
+108: s132 started checkout with checker 7
+108: s656 started checkout with checker 9
+109: s961 done shopping
+110: s279 entered store
+111: s849 entered store
+112: s657 entered store
+112: s281 done shopping
+112: s425 done shopping
+113: s89 done shopping
+113: s502 done shopping
+114: s847 entered store
+114: s343 done shopping
+114: s190 paid $54 for 18 items to checker 5
+114: s961 started checkout with checker 5
+115: s561 entered store
+115: s820 entered store
+117: s305 entered store
+117: s209 done shopping
+117: s182 done shopping
+117: s849 done shopping
+117: s413 paid $105 for 35 items to checker 0
+117: s281 started checkout with checker 0
+118: s961 stole $166 and 31 items from checker 5
+118: s373 paid $75 for 25 items to checker 6
+118: s425 started checkout with checker 5
+118: s89 started checkout with checker 6
+119: s411 done shopping
+120: s905 done shopping
+121: s802 entered store
+122: s62 entered store
+124: s491 entered store
+124: s779 entered store
+125: s23 entered store
+125: s417 entered store
+125: s957 entered store
+125: s985 entered store
+125: s990 entered store
+125: s495 done shopping
+125: s944 done shopping
+125: s883 done shopping
+126: s144 entered store
+126: s386 entered store
+126: s761 entered store
+127: s229 entered store
+127: s619 done shopping
+128: s332 entered store
+128: s686 done shopping
+129: s623 entered store
+129: s233 done shopping
+129: s259 paid $69 for 23 items to checker 4
+129: s425 paid $33 for 11 items to checker 5
+129: s502 started checkout with checker 4
+129: s343 started checkout with checker 5
+130: s813 entered store
+130: s601 paid $129 for 43 items to checker 1
+130: s209 started checkout with checker 1
+131: s241 entered store
+131: s910 done shopping
+132: s559 done shopping
+132: s878 done shopping
+132: s281 paid $45 for 15 items to checker 0
+132: s182 started checkout with checker 0
+133: s990 done shopping
+134: s137 entered store
+134: s377 entered store
+134: s779 done shopping
+135: s529 entered store
+136: s845 entered store
+136: s208 paid $114 for 38 items to checker 8
+136: s849 started checkout with checker 8
+137: s831 done shopping
+138: s792 entered store
+138: s294 paid $105 for 35 items to checker 3
+138: s411 started checkout with checker 3
+139: s895 entered store
+139: s849 paid $9 for 3 items to checker 8
+139: s905 started checkout with checker 8
+140: s212 entered store
+140: s946 entered store
+140: s505 done shopping
+140: s265 done shopping
+140: s222 done shopping
+140: s9 done shopping
+141: s396 entered store
+141: s241 done shopping
+142: s794 entered store
+142: s502 paid $39 for 13 items to checker 4
+142: s495 started checkout with checker 4
+143: s126 entered store
+143: s952 entered store
+143: s90 done shopping
+143: s89 paid $75 for 25 items to checker 6
+143: s944 started checkout with checker 6
+144: s65 entered store
+144: s63 paid $114 for 38 items to checker 2
+144: s883 started checkout with checker 2
+145: s747 entered store
+145: s985 done shopping
+145: s182 paid $39 for 13 items to checker 0
+145: s619 started checkout with checker 0
+147: s897 entered store
+148: s283 entered store
+149: s149 done shopping
+150: s50 entered store
+150: s391 done shopping
+150: s98 done shopping
+150: s656 paid $126 for 42 items to checker 9
+150: s686 started checkout with checker 9
+151: s112 entered store
+151: s783 entered store
+151: s132 paid $129 for 43 items to checker 7
+151: s233 started checkout with checker 7
+153: s382 done shopping
+154: s388 entered store
+154: s643 done shopping
+154: s411 paid $48 for 16 items to checker 3
+154: s910 started checkout with checker 3
+155: s267 entered store
+155: s352 entered store
+155: s949 entered store
+156: s740 entered store
+156: s571 done shopping
+157: s443 entered store
+158: s206 entered store
+158: s640 entered store
+158: s963 entered store
+158: s587 done shopping
+159: s463 entered store
+159: s305 done shopping
+159: s396 done shopping
+160: s257 done shopping
+161: s392 entered store
+161: s902 entered store
+161: s932 done shopping
+161: s209 paid $93 for 31 items to checker 1
+161: s559 started checkout with checker 1
+162: s745 entered store
+162: s48 done shopping
+162: s142 done shopping
+164: s214 done shopping
+165: s836 done shopping
+165: s352 done shopping
+166: s616 entered store
+167: s99 done shopping
+167: s747 done shopping
+167: s883 paid $69 for 23 items to checker 2
+167: s343 paid $114 for 38 items to checker 5
+167: s878 started checkout with checker 2
+167: s990 started checkout with checker 5
+168: s65 done shopping
+168: s944 paid $75 for 25 items to checker 6
+168: s779 started checkout with checker 6
+169: s553 entered store
+169: s783 done shopping
+171: s355 entered store
+171: s990 stole $147 and 4 items from checker 5
+171: s233 paid $60 for 20 items to checker 7
+171: s831 started checkout with checker 5
+171: s505 started checkout with checker 7
+172: s269 entered store
+172: s445 entered store
+172: s596 entered store
+173: s104 entered store
+173: s779 paid $15 for 5 items to checker 6
+173: s265 started checkout with checker 6
+174: s340 entered store
+175: s838 entered store
+175: s898 entered store
+175: s443 done shopping
+176: s775 entered store
+176: s316 done shopping
+177: s217 entered store
+179: s258 done shopping
+179: s878 paid $36 for 12 items to checker 2
+179: s686 paid $87 for 29 items to checker 9
+179: s222 started checkout with checker 2
+179: s9 started checkout with checker 9
+180: s286 entered store
+180: s774 entered store
+181: s708 done shopping
+182: s370 entered store
+182: s905 paid $129 for 43 items to checker 8
+182: s241 started checkout with checker 8
+185: s325 entered store
+185: s957 done shopping
+186: s847 done shopping
+187: s814 entered store
+187: s917 entered store
+187: s241 paid $15 for 5 items to checker 8
+187: s90 started checkout with checker 8
+188: s4 done shopping
+188: s813 done shopping
+190: s277 entered store
+190: s754 done shopping
+190: s279 done shopping
+191: s120 entered store
+191: s169 entered store
+191: s629 entered store
+192: s475 done shopping
+192: s792 done shopping
+194: s55 entered store
+194: s386 done shopping
+195: s495 paid $159 for 53 items to checker 4
+195: s985 started checkout with checker 4
+196: s283 done shopping
+196: s774 done shopping
+196: s55 done shopping
+198: s504 entered store
+198: s889 done shopping
+198: s775 done shopping
+198: s559 paid $111 for 37 items to checker 1
+198: s910 paid $132 for 44 items to checker 3
+198: s149 started checkout with checker 1
+198: s391 started checkout with checker 3
+199: s15 entered store
+199: s246 done shopping
+199: s404 done shopping
+200: s95 entered store
+200: s596 done shopping
+201: s772 entered store
+203: s131 entered store
+203: s820 done shopping
+204: s765 entered store
+204: s197 done shopping
+205: s417 done shopping
+205: s897 done shopping
+205: s985 paid $30 for 10 items to checker 4
+205: s98 started checkout with checker 4
+206: s173 entered store
+206: s577 entered store
+206: s11 done shopping
+206: s340 done shopping
+207: s846 entered store
+207: s917 done shopping
+208: s388 done shopping
+208: s619 paid $189 for 63 items to checker 0
+208: s382 started checkout with checker 0
+209: s623 done shopping
+210: s121 entered store
+210: s592 entered store
+211: s463 done shopping
+212: s302 entered store
+212: s432 done shopping
+213: s674 entered store
+214: s549 entered store
+215: s181 entered store
+215: s30 done shopping
+215: s9 paid $108 for 36 items to checker 9
+215: s643 started checkout with checker 9
+216: s322 done shopping
+217: s907 entered store
+217: s131 done shopping
+218: s239 entered store
+218: s855 done shopping
+219: s270 entered store
+219: s823 entered store
+219: s228 done shopping
+219: s687 done shopping
+220: s92 done shopping
+221: s574 entered store
+221: s648 entered store
+222: s589 done shopping
+222: s377 done shopping
+222: s265 paid $147 for 49 items to checker 6
+222: s571 started checkout with checker 6
+223: s814 done shopping
+223: s270 done shopping
+223: s505 paid $156 for 52 items to checker 7
+223: s587 started checkout with checker 7
+224: s582 entered store
+224: s222 paid $135 for 45 items to checker 2
+224: s305 started checkout with checker 2
+225: s140 done shopping
+225: s827 done shopping
+226: s773 done shopping
+227: s248 entered store
+227: s884 entered store
+227: s267 done shopping
+228: s579 entered store
+228: s714 entered store
+229: s54 entered store
+229: s865 entered store
+229: s529 done shopping
+230: s13 entered store
+230: s873 entered store
+230: s987 entered store
+230: s640 done shopping
+231: s888 entered store
+232: s284 entered store
+232: s824 entered store
+232: s144 done shopping
+232: s137 done shopping
+232: s98 paid $81 for 27 items to checker 4
+232: s396 started checkout with checker 4
+233: s166 entered store
+233: s261 entered store
+233: s902 done shopping
+234: s198 entered store
+234: s745 done shopping
+235: s255 entered store
+236: s396 stole $426 and 9 items from checker 4
+236: s831 paid $195 for 65 items to checker 5
+236: s257 started checkout with checker 4
+236: s932 started checkout with checker 5
+237: s651 entered store
+237: s654 entered store
+237: s523 done shopping
+238: s240 done shopping
+239: s618 entered store
+239: s699 entered store
+240: s62 done shopping
+240: s90 paid $159 for 53 items to checker 8
+240: s48 started checkout with checker 8
+241: s120 done shopping
+241: s699 done shopping
+242: s41 done shopping
+243: s655 entered store
+243: s169 done shopping
+243: s261 done shopping
+245: s451 done shopping
+245: s305 paid $63 for 21 items to checker 2
+245: s142 started checkout with checker 2
+247: s149 paid $147 for 49 items to checker 1
+247: s214 started checkout with checker 1
+248: s817 entered store
+249: s136 entered store
+249: s15 done shopping
+250: s141 entered store
+251: s843 entered store
+251: s938 entered store
+252: s657 done shopping
+254: s143 entered store
+254: s230 entered store
+254: s660 done shopping
+254: s17 done shopping
+256: s108 entered store
+256: s972 entered store
+257: s756 entered store
+257: s557 done shopping
+257: s895 done shopping
+257: s136 done shopping
+258: s707 entered store
+258: s714 done shopping
+258: s391 paid $180 for 60 items to checker 3
+258: s836 started checkout with checker 3
+259: s88 entered store
+259: s561 done shopping
+259: s654 done shopping
+260: s130 entered store
+261: s658 entered store
+261: s809 entered store
+262: s491 done shopping
+262: s577 done shopping
+263: s264 entered store
+264: s342 entered store
+264: s456 entered store
+264: s504 done shopping
+265: s807 entered store
+265: s498 done shopping
+265: s838 done shopping
+266: s765 done shopping
+267: s643 paid $156 for 52 items to checker 9
+267: s352 started checkout with checker 9
+269: s651 done shopping
+270: s114 entered store
+271: s256 done shopping
+271: s823 done shopping
+272: s880 entered store
+272: s449 done shopping
+272: s352 paid $15 for 5 items to checker 9
+272: s99 started checkout with checker 9
+273: s629 done shopping
+275: s184 entered store
+276: s61 entered store
+277: s27 entered store
+278: s671 entered store
+278: s689 entered store
+278: s943 entered store
+278: s571 paid $168 for 56 items to checker 6
+278: s747 started checkout with checker 6
+279: s865 done shopping
+280: s408 entered store
+280: s473 entered store
+281: s625 entered store
+282: s285 entered store
+283: s650 entered store
+283: s382 paid $225 for 75 items to checker 0
+283: s65 started checkout with checker 0
+284: s799 entered store
+284: s257 paid $144 for 48 items to checker 4
+284: s783 started checkout with checker 4
+285: s355 done shopping
+286: s303 entered store
+286: s987 done shopping
+287: s368 entered store
+287: s825 entered store
+287: s392 done shopping
+288: s575 entered store
+288: s982 entered store
+289: s747 paid $33 for 11 items to checker 6
+289: s443 started checkout with checker 6
+290: s193 entered store
+290: s361 entered store
+291: s496 done shopping
+291: s932 paid $165 for 55 items to checker 5
+291: s316 started checkout with checker 5
+292: s238 entered store
+292: s748 entered store
+292: s239 done shopping
+292: s61 done shopping
+293: s472 entered store
+293: s104 done shopping
+293: s898 done shopping
+293: s783 paid $27 for 9 items to checker 4
+293: s258 started checkout with checker 4
+294: s332 done shopping
+294: s873 done shopping
+295: s470 entered store
+295: s65 paid $36 for 12 items to checker 0
+295: s316 stole $360 and 52 items from checker 5
+295: s708 started checkout with checker 0
+295: s957 started checkout with checker 5
+296: s403 done shopping
+296: s108 done shopping
+297: s587 paid $222 for 74 items to checker 7
+297: s847 started checkout with checker 7
+298: s759 entered store
+298: s761 done shopping
+298: s946 done shopping
+298: s284 done shopping
+298: s443 paid $27 for 9 items to checker 6
+298: s4 started checkout with checker 6
+300: s118 entered store
+301: s802 done shopping
+301: s648 done shopping
+302: s37 entered store
+302: s822 done shopping
+303: s485 entered store
+303: s126 done shopping
+304: s877 entered store
+304: s909 entered store
+304: s740 done shopping
+305: s148 entered store
+306: s963 done shopping
+306: s370 done shopping
+307: s45 entered store
+307: s922 entered store
+307: s938 done shopping
+308: s206 done shopping
+309: s274 entered store
+309: s88 done shopping
+309: s142 paid $192 for 64 items to checker 2
+309: s813 started checkout with checker 2
+310: s299 entered store
+310: s277 done shopping
+310: s361 done shopping
+311: s798 entered store
+311: s907 done shopping
+311: s48 paid $213 for 71 items to checker 8
+311: s754 started checkout with checker 8
+312: s934 entered store
+312: s794 done shopping
+313: s54 done shopping
+313: s99 paid $123 for 41 items to checker 9
+313: s279 started checkout with checker 9
+314: s364 entered store
+314: s514 entered store
+314: s238 done shopping
+315: s229 done shopping
+316: s901 entered store
+317: s515 entered store
+317: s668 entered store
+317: s23 done shopping
+317: s949 done shopping
+317: s255 done shopping
+318: s441 entered store
+318: s214 paid $213 for 71 items to checker 1
+318: s475 started checkout with checker 1
+320: s762 entered store
+320: s808 entered store
+320: s856 entered store
+321: s85 entered store
+321: s527 entered store
+321: s683 entered store
+321: s112 done shopping
+322: s592 done shopping
+323: s470 done shopping
+324: s371 entered store
+324: s173 done shopping
+324: s549 done shopping
+325: s266 entered store
+325: s535 entered store
+325: s952 done shopping
+325: s957 paid $90 for 30 items to checker 5
+325: s792 started checkout with checker 5
+326: s210 entered store
+326: s269 done shopping
+326: s689 done shopping
+327: s181 done shopping
+328: s968 entered store
+329: s785 entered store
+329: s893 entered store
+330: s751 entered store
+330: s845 done shopping
+331: s650 done shopping
+332: s862 entered store
+332: s707 done shopping
+333: s546 entered store
+333: s553 done shopping
+333: s847 paid $108 for 36 items to checker 7
+333: s386 started checkout with checker 7
+334: s452 entered store
+334: s212 done shopping
+334: s972 done shopping
+334: s862 done shopping
+335: s334 entered store
+336: s720 entered store
+336: s918 entered store
+337: s105 entered store
+337: s122 entered store
+337: s574 done shopping
+337: s843 done shopping
+338: s309 entered store
+338: s942 entered store
+338: s813 paid $87 for 29 items to checker 2
+338: s283 started checkout with checker 2
+339: s213 entered store
+339: s756 done shopping
+339: s836 paid $243 for 81 items to checker 3
+339: s774 started checkout with checker 3
+340: s468 entered store
+342: s346 entered store
+342: s230 done shopping
+343: s252 entered store
+343: s455 entered store
+343: s947 entered store
+344: s159 entered store
+344: s537 entered store
+344: s50 done shopping
+344: s441 done shopping
+345: s770 entered store
+345: s217 done shopping
+346: s616 done shopping
+347: s235 entered store
+347: s937 entered store
+347: s515 done shopping
+347: s774 paid $24 for 8 items to checker 3
+347: s55 started checkout with checker 3
+348: s303 done shopping
+348: s55 paid $3 for 1 item to checker 3
+348: s889 started checkout with checker 3
+349: s79 entered store
+350: s198 done shopping
+350: s130 done shopping
+351: s287 entered store
+351: s314 entered store
+352: s349 entered store
+352: s889 stole $1003 and 73 items from checker 3
+352: s792 paid $81 for 27 items to checker 5
+352: s775 started checkout with checker 3
+352: s246 started checkout with checker 5
+353: s279 paid $120 for 40 items to checker 9
+353: s404 started checkout with checker 9
+354: s44 entered store
+354: s722 entered store
+354: s808 done shopping
+355: s248 done shopping
+355: s485 done shopping
+356: s872 entered store
+356: s817 done shopping
+357: s166 done shopping
+359: s886 entered store
+359: s772 done shopping
+359: s884 done shopping
+359: s472 done shopping
+359: s105 done shopping
+360: s824 done shopping
+360: s475 paid $126 for 42 items to checker 1
+360: s596 started checkout with checker 1
+361: s167 entered store
+361: s308 entered store
+361: s539 entered store
+361: s956 entered store
+361: s655 done shopping
+362: s930 entered store
+362: s286 done shopping
+362: s452 done shopping
+362: s283 paid $72 for 24 items to checker 2
+362: s4 paid $192 for 64 items to checker 6
+362: s820 started checkout with checker 2
+362: s197 started checkout with checker 6
+363: s3 entered store
+363: s148 done shopping
+363: s775 paid $33 for 11 items to checker 3
+363: s417 started checkout with checker 3
+364: s445 done shopping
+364: s95 done shopping
+365: s351 entered store
+365: s731 entered store
+366: s934 done shopping
+366: s942 done shopping
+367: s736 entered store
+367: s625 done shopping
+367: s258 paid $222 for 74 items to checker 4
+367: s386 paid $102 for 34 items to checker 7
+367: s897 started checkout with checker 4
+367: s11 started checkout with checker 7
+368: s170 entered store
+368: s708 paid $219 for 73 items to checker 0
+368: s340 started checkout with checker 0
+369: s139 entered store
+369: s967 entered store
+369: s980 entered store
+371: s16 entered store
+373: s79 done shopping
+374: s121 done shopping
+374: s799 done shopping
+374: s596 paid $42 for 14 items to checker 1
+374: s917 started checkout with checker 1
+375: s807 done shopping
+375: s527 done shopping
+376: s224 entered store
+376: s662 entered store
+377: s21 entered store
+377: s882 entered store
+377: s325 done shopping
+378: s232 entered store
+378: s384 entered store
+378: s664 entered store
+378: s13 done shopping
+378: s349 done shopping
+378: s917 stole $1066 and 10 items from checker 1
+378: s388 started checkout with checker 1
+379: s34 entered store
+379: s280 entered store
+379: s431 entered store
+379: s274 done shopping
+379: s334 done shopping
+380: s53 entered store
+380: s91 entered store
+380: s253 entered store
+380: s841 entered store
+380: s662 done shopping
+381: s736 done shopping
+382: s511 entered store
+382: s118 done shopping
+382: s364 done shopping
+382: s722 done shopping
+383: s300 entered store
+384: s302 done shopping
+384: s340 paid $48 for 16 items to checker 0
+384: s754 paid $219 for 73 items to checker 8
+384: s623 started checkout with checker 0
+384: s463 started checkout with checker 8
+385: s698 entered store
+386: s901 done shopping
+387: s174 entered store
+387: s434 entered store
+387: s912 entered store
+387: s184 done shopping
+388: s414 entered store
+388: s894 entered store
+389: s839 entered store
+389: s264 done shopping
+389: s21 done shopping
+389: s174 done shopping
+390: s582 done shopping
+390: s968 done shopping
+391: s164 entered store
+391: s204 entered store
+392: s400 entered store
+394: s319 entered store
+394: s894 done shopping
+395: s85 done shopping
+395: s947 done shopping
+396: s309 done shopping
+396: s897 paid $87 for 29 items to checker 4
+396: s432 started checkout with checker 4
+397: s167 done shopping
+398: s525 entered store
+399: s318 entered store
+399: s308 done shopping
+399: s16 done shopping
+399: s280 done shopping
+400: s339 entered store
+400: s811 entered store
+401: s627 entered store
+402: s880 done shopping
+402: s943 done shopping
+403: s122 done shopping
+403: s417 paid $120 for 40 items to checker 3
+403: s30 started checkout with checker 3
+404: s923 entered store
+405: s420 entered store
+405: s885 entered store
+405: s846 done shopping
+405: s388 paid $81 for 27 items to checker 1
+405: s322 started checkout with checker 1
+406: s820 paid $132 for 44 items to checker 2
+406: s131 started checkout with checker 2
+407: s674 done shopping
+407: s770 done shopping
+408: s404 paid $165 for 55 items to checker 9
+408: s855 started checkout with checker 9
+409: s513 entered store
+409: s744 entered store
+409: s887 entered store
+409: s252 done shopping
+410: s463 paid $78 for 26 items to checker 8
+410: s228 started checkout with checker 8
+411: s612 entered store
+411: s781 entered store
+412: s558 entered store
+412: s671 done shopping
+412: s511 done shopping
+412: s811 done shopping
+413: s800 entered store
+413: s954 entered store
+413: s131 paid $21 for 7 items to checker 2
+413: s687 started checkout with checker 2
+415: s147 entered store
+415: s899 entered store
+415: s287 done shopping
+416: s159 done shopping
+418: s188 entered store
+418: s437 entered store
+418: s923 done shopping
+419: s562 entered store
+419: s235 done shopping
+419: s3 done shopping
+420: s537 done shopping
+421: s888 done shopping
+422: s401 entered store
+422: s608 entered store
+423: s82 entered store
+423: s570 entered store
+423: s455 done shopping
+424: s787 entered store
+424: s253 done shopping
+424: s623 paid $120 for 40 items to checker 0
+424: s92 started checkout with checker 0
+425: s886 done shopping
+426: s579 done shopping
+426: s371 done shopping
+427: s300 done shopping
+429: s509 entered store
+429: s521 entered store
+429: s703 entered store
+429: s922 done shopping
+429: s139 done shopping
+430: s918 done shopping
+431: s368 done shopping
+432: s203 entered store
+432: s398 entered store
+432: s141 done shopping
+432: s525 done shopping
+432: s188 done shopping
+433: s850 entered store
+434: s290 entered store
+434: s407 entered store
+434: s715 entered store
+434: s285 done shopping
+434: s751 done shopping
+434: s414 done shopping
+435: s25 entered store
+435: s27 done shopping
+435: s11 paid $204 for 68 items to checker 7
+435: s589 started checkout with checker 7
+436: s422 entered store
+436: s672 entered store
+436: s339 done shopping
+438: s440 entered store
+439: s618 done shopping
+439: s668 done shopping
+440: s560 entered store
+440: s869 entered store
+440: s143 done shopping
+442: s38 entered store
+443: s39 entered store
+443: s658 done shopping
+444: s67 entered store
+444: s262 entered store
+444: s721 entered store
+445: s550 entered store
+445: s797 entered store
+446: s330 entered store
+447: s465 entered store
+447: s614 entered store
+447: s82 done shopping
+448: s692 entered store
+448: s749 entered store
+448: s342 done shopping
+448: s982 done shopping
+448: s330 done shopping
+448: s246 paid $288 for 96 items to checker 5
+448: s377 started checkout with checker 5
+449: s645 entered store
+449: s866 entered store
+450: s759 done shopping
+451: s197 paid $267 for 89 items to checker 6
+451: s814 started checkout with checker 6
+452: s52 entered store
+452: s536 entered store
+452: s377 stole $459 and 44 items from checker 5
+452: s270 started checkout with checker 5
+453: s885 done shopping
+454: s398 done shopping
+455: s848 entered store
+455: s785 done shopping
+456: s575 done shopping
+456: s270 stole $0 and 2 items from checker 5
+456: s140 started checkout with checker 5
+457: s12 entered store
+457: s737 entered store
+458: s268 entered store
+458: s976 entered store
+458: s193 done shopping
+459: s192 entered store
+459: s611 entered store
+459: s896 entered store
+459: s147 done shopping
+460: s196 entered store
+460: s558 done shopping
+461: s809 done shopping
+461: s882 done shopping
+462: s631 entered store
+462: s456 done shopping
+462: s473 done shopping
+463: s322 paid $174 for 58 items to checker 1
+463: s827 started checkout with checker 1
+464: s114 done shopping
+464: s37 done shopping
+464: s762 done shopping
+464: s608 done shopping
+465: s410 entered store
+466: s357 entered store
+467: s544 entered store
+467: s916 entered store
+467: s969 entered store
+467: s314 done shopping
+468: s711 entered store
+469: s513 done shopping
+469: s814 paid $54 for 18 items to checker 6
+469: s773 started checkout with checker 6
+470: s375 entered store
+470: s408 done shopping
+470: s748 done shopping
+470: s400 done shopping
+470: s721 done shopping
+471: s624 entered store
+471: s266 done shopping
+471: s937 done shopping
+472: s195 entered store
+473: s499 entered store
+473: s420 done shopping
+473: s773 stole $1228 and 59 items from checker 6
+473: s267 started checkout with checker 6
+474: s514 done shopping
+475: s45 done shopping
+475: s431 done shopping
+476: s872 done shopping
+476: s930 done shopping
+477: s997 entered store
+477: s825 done shopping
+478: s841 done shopping
+479: s194 entered store
+479: s432 paid $249 for 83 items to checker 4
+479: s529 started checkout with checker 4
+480: s877 done shopping
+480: s909 done shopping
+480: s869 done shopping
+480: s30 paid $231 for 77 items to checker 3
+480: s640 started checkout with checker 3
+481: s731 done shopping
+481: s12 done shopping
+482: s726 entered store
+482: s91 done shopping
+483: s646 entered store
+483: s798 done shopping
+483: s893 done shopping
+483: s39 done shopping
+483: s529 stole $729 and 47 items from checker 4
+483: s144 started checkout with checker 4
+484: s965 entered store
+484: s346 done shopping
+485: s487 entered store
+486: s628 entered store
+486: s778 entered store
+486: s837 entered store
+486: s299 done shopping
+486: s536 done shopping
+487: s670 entered store
+488: s291 entered store
+488: s224 done shopping
+490: s210 done shopping
+490: s468 done shopping
+491: s73 entered store
+491: s566 entered store
+491: s617 entered store
+491: s535 done shopping
+491: s544 done shopping
+492: s58 entered store
+493: s2 entered store
+493: s36 entered store
+493: s641 entered store
+493: s890 entered store
+493: s921 entered store
+493: s797 done shopping
+494: s199 entered store
+495: s434 done shopping
+495: s855 paid $261 for 87 items to checker 9
+495: s137 started checkout with checker 9
+496: s461 entered store
+496: s919 entered store
+496: s52 done shopping
+496: s357 done shopping
+496: s687 paid $249 for 83 items to checker 2
+496: s902 started checkout with checker 2
+497: s387 entered store
+497: s479 entered store
+498: s622 entered store
+498: s196 done shopping
+498: s92 paid $222 for 74 items to checker 0
+498: s745 started checkout with checker 0
+499: s506 entered store
+500: s219 entered store
+500: s409 entered store
+500: s453 entered store
+500: s778 done shopping
+501: s153 entered store
+501: s994 entered store
+501: s213 done shopping
+502: s919 done shopping
+503: s627 done shopping
+504: s232 done shopping
+504: s228 paid $282 for 94 items to checker 8
+504: s523 started checkout with checker 8
+505: s157 entered store
+505: s927 entered store
+505: s570 done shopping
+505: s670 done shopping
+506: s75 entered store
+506: s497 entered store
+506: s856 done shopping
+506: s440 done shopping
+507: s295 entered store
+507: s350 entered store
+507: s436 entered store
+507: s810 entered store
+508: s78 entered store
+508: s692 done shopping
+509: s876 entered store
+509: s781 done shopping
+509: s267 paid $108 for 36 items to checker 6
+509: s240 started checkout with checker 6
+511: s758 entered store
+512: s583 entered store
+512: s664 done shopping
+513: s839 done shopping
+514: s723 entered store
+515: s546 done shopping
+515: s34 done shopping
+515: s850 done shopping
+516: s520 entered store
+516: s545 entered store
+516: s787 done shopping
+516: s640 paid $108 for 36 items to checker 3
+516: s62 started checkout with checker 3
+517: s211 entered store
+517: s683 done shopping
+517: s927 done shopping
+517: s589 paid $246 for 82 items to checker 7
+517: s120 started checkout with checker 7
+518: s348 entered store
+520: s471 entered store
+520: s44 done shopping
+520: s291 done shopping
+521: s633 entered store
+522: s720 done shopping
+523: s429 entered store
+523: s639 entered store
+523: s967 done shopping
+523: s436 done shopping
+523: s211 done shopping
+524: s482 entered store
+524: s170 done shopping
+524: s219 done shopping
+525: s980 done shopping
+525: s800 done shopping
+526: s306 entered store
+526: s307 entered store
+527: s881 entered store
+527: s931 entered store
+527: s465 done shopping
+529: s133 entered store
+529: s489 entered store
+529: s694 entered store
+529: s698 done shopping
+529: s912 done shopping
+530: s66 entered store
+531: s8 entered store
+532: s195 done shopping
+532: s902 paid $108 for 36 items to checker 2
+532: s699 started checkout with checker 2
+534: s626 entered store
+534: s745 paid $108 for 36 items to checker 0
+534: s41 started checkout with checker 0
+535: s532 entered store
+535: s960 entered store
+535: s387 done shopping
+535: s429 done shopping
+536: s155 entered store
+536: s555 entered store
+536: s699 stole $1278 and 1 item from checker 2
+536: s144 paid $159 for 53 items to checker 4
+536: s169 started checkout with checker 2
+536: s261 started checkout with checker 4
+537: s956 done shopping
+539: s68 entered store
+539: s154 entered store
+539: s354 entered store
+539: s634 entered store
+539: s539 done shopping
+539: s866 done shopping
+539: s295 done shopping
+540: s700 entered store
+540: s169 stole $0 and 26 items from checker 2
+540: s451 started checkout with checker 2
+541: s5 entered store
+541: s675 entered store
+541: s899 done shopping
+541: s261 paid $15 for 5 items to checker 4
+541: s15 started checkout with checker 4
+542: s165 entered store
+542: s337 entered store
+542: s120 paid $75 for 25 items to checker 7
+542: s657 started checkout with checker 7
+543: s77 entered store
+543: s969 done shopping
+544: s137 paid $147 for 49 items to checker 9
+544: s660 started checkout with checker 9
+545: s351 done shopping
+545: s617 done shopping
+545: s140 paid $267 for 89 items to checker 5
+545: s17 started checkout with checker 5
+546: s24 entered store
+546: s834 entered store
+546: s749 done shopping
+546: s827 paid $249 for 83 items to checker 1
+546: s557 started checkout with checker 1
+547: s903 entered store
+548: s501 entered store
+548: s437 done shopping
+548: s375 done shopping
+548: s58 done shopping
+549: s363 entered store
+549: s612 done shopping
+549: s487 done shopping
+550: s319 done shopping
+550: s626 done shopping
+551: s803 entered store
+551: s410 done shopping
+551: s532 done shopping
+552: s60 entered store
+552: s724 entered store
+552: s715 done shopping
+553: s176 entered store
+553: s936 entered store
+553: s737 done shopping
+553: s68 done shopping
+554: s939 entered store
+554: s384 done shopping
+555: s716 entered store
+555: s806 entered store
+556: s329 entered store
+556: s746 entered store
+557: s784 entered store
+557: s164 done shopping
+558: s427 entered store
+558: s940 entered store
+558: s53 done shopping
+558: s401 done shopping
+558: s203 done shopping
+560: s446 entered store
+560: s746 done shopping
+561: s250 entered store
+562: s407 done shopping
+563: s633 done shopping
+564: s301 entered store
+564: s580 entered store
+564: s584 entered store
+564: s965 done shopping
+564: s446 done shopping
+565: s25 done shopping
+565: s157 done shopping
+566: s528 entered store
+566: s555 done shopping
+566: s15 paid $75 for 25 items to checker 4
+566: s895 started checkout with checker 4
+567: s450 entered store
+568: s7 entered store
+568: s43 entered store
+568: s128 entered store
+569: s454 entered store
+569: s758 done shopping
+570: s201 entered store
+570: s405 entered store
+570: s613 entered store
+571: s312 entered store
+571: s476 entered store
+571: s669 entered store
+572: s67 done shopping
+572: s723 done shopping
+573: s611 done shopping
+574: s237 entered store
+574: s385 entered store
+574: s38 done shopping
+575: s806 done shopping
+575: s62 paid $177 for 59 items to checker 3
+575: s136 started checkout with checker 3
+576: s337 done shopping
+576: s24 done shopping
+577: s647 entered store
+577: s204 done shopping
+577: s318 done shopping
+577: s675 done shopping
+578: s461 done shopping
+578: s128 done shopping
+579: s479 done shopping
+579: s136 paid $12 for 4 items to checker 3
+579: s714 started checkout with checker 3
+580: s430 entered store
+580: s704 entered store
+581: s848 done shopping
+582: s584 done shopping
+583: s854 entered store
+583: s521 done shopping
+583: s890 done shopping
+584: s304 entered store
+584: s583 done shopping
+584: s306 done shopping
+585: s28 entered store
+585: s477 entered store
+585: s887 done shopping
+585: s350 done shopping
+585: s489 done shopping
+586: s75 done shopping
+587: s32 entered store
+587: s703 done shopping
+588: s106 entered store
+589: s477 done shopping
+590: s225 entered store
+590: s816 entered store
+590: s268 done shopping
+591: s744 done shopping
+591: s641 done shopping
+591: s523 paid $261 for 87 items to checker 8
+591: s561 started checkout with checker 8
+592: s486 entered store
+593: s2 done shopping
+593: s28 done shopping
+594: s328 entered store
+594: s714 paid $45 for 15 items to checker 3
+594: s654 started checkout with checker 3
+595: s767 entered store
+595: s645 done shopping
+595: s194 done shopping
+595: s5 done shopping
+596: s709 entered store
+597: s249 entered store
+597: s469 entered store
+597: s550 done shopping
+597: s614 done shopping
+597: s896 done shopping
+598: s834 done shopping
+599: s646 done shopping
+599: s36 done shopping
+599: s506 done shopping
+600: s290 done shopping
+600: s240 paid $273 for 91 items to checker 6
+600: s491 started checkout with checker 6
+601: s954 done shopping
+601: s454 done shopping
+602: s712 entered store
+602: s106 done shopping
+604: s600 entered store
+604: s560 done shopping
+604: s409 done shopping
+605: s654 paid $33 for 11 items to checker 3
+605: s577 started checkout with checker 3
+606: s83 entered store
+606: s615 entered store
+606: s155 done shopping
+606: s600 done shopping
+606: s41 paid $216 for 72 items to checker 0
+606: s504 started checkout with checker 0
+607: s959 entered store
+607: s192 done shopping
+607: s566 done shopping
+608: s580 done shopping
+608: s712 done shopping
+609: s960 done shopping
+610: s83 done shopping
+611: s183 entered store
+612: s422 done shopping
+612: s199 done shopping
+612: s657 paid $210 for 70 items to checker 7
+612: s498 started checkout with checker 7
+613: s562 done shopping
+613: s994 done shopping
+614: s522 entered store
+614: s984 entered store
+614: s304 done shopping
+616: s976 done shopping
+617: s518 entered store
+618: s826 entered store
+618: s829 entered store
+618: s427 done shopping
+618: s709 done shopping
+619: s51 entered store
+619: s867 entered store
+620: s859 entered store
+620: s78 done shopping
+621: s185 entered store
+621: s540 entered store
+622: s310 entered store
+622: s360 entered store
+622: s711 done shopping
+624: s672 done shopping
+625: s46 entered store
+625: s509 done shopping
+625: s931 done shopping
+625: s634 done shopping
+625: s895 paid $177 for 59 items to checker 4
+625: s838 started checkout with checker 4
+626: s117 entered store
+626: s17 paid $243 for 81 items to checker 5
+626: s660 paid $246 for 82 items to checker 9
+626: s765 started checkout with checker 5
+626: s651 started checkout with checker 9
+627: s86 entered store
+627: s606 entered store
+627: s777 entered store
+628: s180 entered store
+628: s482 done shopping
+628: s60 done shopping
+628: s7 done shopping
+628: s613 done shopping
+628: s615 done shopping
+629: s693 entered store
+629: s838 stole $426 and 45 items from checker 4
+629: s256 started checkout with checker 4
+630: s569 entered store
+630: s651 stole $1654 and 16 items from checker 9
+630: s823 started checkout with checker 9
+631: s115 entered store
+631: s632 entered store
+631: s499 done shopping
+632: s179 entered store
+632: s458 entered store
+632: s237 done shopping
+633: s710 entered store
+633: s777 done shopping
+633: s577 paid $84 for 28 items to checker 3
+633: s449 started checkout with checker 3
+634: s510 entered store
+634: s970 entered store
+635: s810 done shopping
+635: s250 done shopping
+636: s474 entered store
+636: s405 done shopping
+637: s605 entered store
+637: s451 paid $291 for 97 items to checker 2
+637: s629 started checkout with checker 2
+638: s780 entered store
+638: s622 done shopping
+638: s557 paid $276 for 92 items to checker 1
+638: s865 started checkout with checker 1
+639: s832 entered store
+639: s504 paid $99 for 33 items to checker 0
+639: s355 started checkout with checker 0
+640: s492 entered store
+641: s263 entered store
+642: s262 done shopping
+642: s453 done shopping
+642: s348 done shopping
+642: s471 done shopping
+642: s780 done shopping
+643: s874 entered store
+643: s624 done shopping
+643: s921 done shopping
+644: s310 done shopping
+647: s312 done shopping
+648: s630 entered store
+648: s829 done shopping
+649: s876 done shopping
+651: s803 done shopping
+652: s631 done shopping
+653: s447 entered store
+653: s997 done shopping
+653: s647 done shopping
+654: s271 entered store
+654: s573 entered store
+654: s180 done shopping
+655: s916 done shopping
+656: s823 paid $78 for 26 items to checker 9
+656: s987 started checkout with checker 9
+657: s900 entered store
+657: s8 done shopping
+657: s606 done shopping
+657: s765 paid $93 for 31 items to checker 5
+657: s392 started checkout with checker 5
+659: s964 entered store
+659: s154 done shopping
+659: s469 done shopping
+660: s717 entered store
+660: s987 stole $78 and 28 items from checker 9
+660: s496 started checkout with checker 9
+661: s586 entered store
+661: s981 entered store
+661: s988 entered store
+662: s242 entered store
+663: s865 paid $75 for 25 items to checker 1
+663: s561 paid $216 for 72 items to checker 8
+663: s239 started checkout with checker 1
+663: s61 started checkout with checker 8
+664: s628 done shopping
+665: s153 done shopping
+666: s347 entered store
+666: s497 done shopping
+666: s724 done shopping
+666: s816 done shopping
+666: s510 done shopping
+667: s379 entered store
+668: s522 done shopping
+669: s936 done shopping
+669: s491 paid $207 for 69 items to checker 6
+669: s104 started checkout with checker 6
+670: s423 entered store
+670: s665 entered store
+670: s962 entered store
+670: s837 done shopping
+671: s61 paid $24 for 8 items to checker 8
+671: s898 started checkout with checker 8
+672: s402 entered store
+672: s859 done shopping
+673: s77 done shopping
+673: s86 done shopping
+674: s362 entered store
+674: s726 done shopping
+675: s565 entered store
+675: s663 entered store
+675: s676 entered store
+676: s42 entered store
+677: s680 entered store
+677: s857 entered store
+677: s903 done shopping
+677: s518 done shopping
+678: s369 entered store
+678: s629 paid $123 for 41 items to checker 2
+678: s332 started checkout with checker 2
+679: s354 done shopping
+680: s353 entered store
+681: s494 entered store
+681: s830 entered store
+681: s861 entered store
+682: s750 entered store
+682: s165 done shopping
+682: s43 done shopping
+683: s688 entered store
+683: s959 done shopping
+683: s46 done shopping
+684: s460 entered store
+684: s554 entered store
+684: s906 entered store
+684: s66 done shopping
+685: s100 entered store
+685: s854 done shopping
+686: s216 entered store
+686: s636 entered store
+686: s301 done shopping
+686: s906 done shopping
+687: s531 entered store
+687: s767 done shopping
+687: s832 done shopping
+688: s983 entered store
+688: s486 done shopping
+689: s70 entered store
+689: s684 entered store
+689: s185 done shopping
+690: s385 done shopping
+690: s826 done shopping
+690: s458 done shopping
+690: s347 done shopping
+691: s171 entered store
+691: s568 entered store
+691: s679 entered store
+691: s73 done shopping
+691: s379 done shopping
+692: s236 entered store
+692: s545 done shopping
+693: s156 entered store
+694: s333 entered store
+694: s547 entered store
+694: s501 done shopping
+695: s716 done shopping
+696: s741 entered store
+696: s42 done shopping
+696: s355 paid $171 for 57 items to checker 0
+696: s873 started checkout with checker 0
+697: s953 entered store
+698: s564 entered store
+698: s939 done shopping
+698: s201 done shopping
+698: s704 done shopping
+699: s769 entered store
+699: s639 done shopping
+700: s151 entered store
+700: s200 entered store
+700: s725 entered store
+700: s630 done shopping
+700: s564 done shopping
+700: s239 paid $111 for 37 items to checker 1
+700: s403 started checkout with checker 1
+701: s881 done shopping
+702: s812 entered store
+702: s329 done shopping
+704: s430 done shopping
+704: s636 done shopping
+705: s484 entered store
+705: s729 entered store
+705: s540 done shopping
+706: s111 entered store
+707: s669 done shopping
+708: s973 entered store
+708: s520 done shopping
+708: s307 done shopping
+709: s49 entered store
+709: s87 entered store
+709: s296 entered store
+709: s542 entered store
+709: s133 done shopping
+709: s694 done shopping
+710: s870 entered store
+711: s406 entered store
+711: s176 done shopping
+711: s51 done shopping
+711: s769 done shopping
+711: s498 paid $297 for 99 items to checker 7
+711: s108 started checkout with checker 7
+712: s706 entered store
+712: s979 entered store
+713: s419 entered store
+714: s107 entered store
+716: s276 entered store
+716: s717 done shopping
+717: s920 entered store
+718: s996 entered store
+719: s383 entered store
+719: s719 entered store
+720: s393 entered store
+720: s392 paid $189 for 63 items to checker 5
+720: s761 started checkout with checker 5
+722: s109 entered store
+722: s576 entered store
+722: s700 done shopping
+722: s271 done shopping
+722: s962 done shopping
+723: s449 paid $270 for 90 items to checker 3
+723: s946 started checkout with checker 3
+725: s653 entered store
+725: s732 entered store
+725: s450 done shopping
+725: s476 done shopping
+725: s156 done shopping
+726: s74 entered store
+727: s175 entered store
+727: s395 entered store
+727: s879 entered store
+728: s940 done shopping
+728: s225 done shopping
+728: s492 done shopping
+728: s873 paid $96 for 32 items to checker 0
+728: s256 paid $297 for 99 items to checker 4
+728: s284 started checkout with checker 0
+728: s802 started checkout with checker 4
+729: s578 entered store
+729: s914 entered store
+729: s693 done shopping
+729: s104 paid $180 for 60 items to checker 6
+729: s648 started checkout with checker 6
+730: s22 entered store
+730: s40 entered store
+730: s146 entered store
+730: s569 done shopping
+730: s242 done shopping
+730: s898 paid $177 for 59 items to checker 8
+730: s822 started checkout with checker 8
+731: s84 entered store
+731: s108 paid $60 for 20 items to checker 7
+731: s126 started checkout with checker 7
+732: s109 done shopping
+733: s47 entered store
+733: s234 entered store
+733: s784 done shopping
+733: s710 done shopping
+734: s730 entered store
+735: s421 entered store
+735: s879 done shopping
+736: s324 entered store
+736: s200 done shopping
+737: s6 entered store
+737: s728 entered store
+737: s953 done shopping
+738: s804 entered store
+739: s551 entered store
+739: s733 entered store
+739: s840 entered store
+740: s31 entered store
+741: s363 done shopping
+741: s49 done shopping
+742: s984 done shopping
+743: s416 entered store
+743: s87 done shopping
+744: s72 entered store
+744: s163 entered store
+745: s791 entered store
+745: s978 entered store
+745: s171 done shopping
+746: s444 entered store
+747: s81 entered store
+747: s766 entered store
+747: s565 done shopping
+747: s680 done shopping
+747: s732 done shopping
+751: s183 done shopping
+751: s688 done shopping
+752: s483 entered store
+752: s328 done shopping
+753: s519 entered store
+753: s833 entered store
+753: s383 done shopping
+755: s29 entered store
+755: s138 entered store
+755: s945 entered store
+755: s955 entered store
+755: s728 done shopping
+756: s598 entered store
+756: s528 done shopping
+756: s496 paid $288 for 96 items to checker 9
+756: s740 started checkout with checker 9
+757: s102 entered store
+757: s835 entered store
+758: s22 done shopping
+759: s729 done shopping
+760: s218 entered store
+760: s594 entered store
+760: s603 entered store
+760: s697 entered store
+760: s369 done shopping
+760: s216 done shopping
+761: s356 entered store
+761: s793 entered store
+761: s249 done shopping
+761: s6 done shopping
+761: s284 paid $99 for 33 items to checker 0
+761: s332 paid $249 for 83 items to checker 2
+761: s963 started checkout with checker 0
+761: s370 started checkout with checker 2
+762: s168 entered store
+762: s336 entered store
+762: s460 done shopping
+762: s547 done shopping
+764: s480 entered store
+764: s524 entered store
+764: s353 done shopping
+764: s333 done shopping
+764: s111 done shopping
+764: s730 done shopping
+765: s56 entered store
+765: s867 done shopping
+766: s31 done shopping
+766: s524 done shopping
+767: s572 entered store
+767: s842 entered store
+767: s915 entered store
+767: s900 done shopping
+769: s585 entered store
+769: s648 paid $120 for 40 items to checker 6
+769: s938 started checkout with checker 6
+770: s124 entered store
+770: s556 entered store
+771: s26 entered store
+771: s187 entered store
+771: s251 entered store
+771: s871 entered store
+771: s999 entered store
+772: s423 done shopping
+773: s531 done shopping
+773: s519 done shopping
+774: s415 entered store
+775: s421 done shopping
+776: s516 entered store
+776: s701 entered store
+776: s573 done shopping
+776: s576 done shopping
+777: s298 entered store
+777: s32 done shopping
+777: s676 done shopping
+778: s911 entered store
+778: s974 entered store
+778: s970 done shopping
+779: s914 done shopping
+780: s815 entered store
+781: s599 entered store
+781: s637 entered store
+781: s891 entered store
+784: s725 done shopping
+785: s821 entered store
+787: s76 entered store
+787: s610 entered store
+787: s679 done shopping
+787: s733 done shopping
+788: s151 done shopping
+790: s1 entered store
+790: s243 entered store
+791: s690 entered store
+793: s857 done shopping
+793: s47 done shopping
+794: s64 entered store
+794: s366 entered store
+794: s665 done shopping
+794: s40 done shopping
+795: s202 entered store
+795: s971 entered store
+796: s33 entered store
+796: s681 entered store
+796: s750 done shopping
+797: s933 entered store
+797: s447 done shopping
+797: s610 done shopping
+797: s938 paid $84 for 28 items to checker 6
+797: s206 started checkout with checker 6
+798: s273 entered store
+798: s117 done shopping
+799: s263 done shopping
+799: s586 done shopping
+799: s978 done shopping
+799: s637 done shopping
+800: s236 done shopping
+800: s911 done shopping
+800: s403 paid $300 for 100 items to checker 1
+800: s88 started checkout with checker 1
+801: s478 entered store
+801: s115 done shopping
+802: s718 entered store
+802: s946 paid $237 for 79 items to checker 3
+802: s277 started checkout with checker 3
+803: s10 entered store
+803: s424 entered store
+803: s638 entered store
+803: s677 entered store
+804: s362 done shopping
+804: s973 done shopping
+804: s146 done shopping
+805: s459 entered store
+805: s981 done shopping
+805: s988 done shopping
+806: s223 entered store
+806: s326 entered store
+806: s761 paid $258 for 86 items to checker 5
+806: s361 started checkout with checker 5
+808: s789 entered store
+808: s870 done shopping
+809: s945 done shopping
+809: s251 done shopping
+810: s360 done shopping
+811: s126 paid $240 for 80 items to checker 7
+811: s907 started checkout with checker 7
+812: s110 entered store
+812: s755 entered store
+813: s215 entered store
+813: s684 done shopping
+814: s97 entered store
+814: s483 done shopping
+815: s231 entered store
+815: s632 done shopping
+815: s56 done shopping
+816: s534 entered store
+816: s74 done shopping
+816: s361 paid $30 for 10 items to checker 5
+816: s794 started checkout with checker 5
+817: s428 entered store
+817: s933 done shopping
+818: s924 entered store
+818: s802 paid $270 for 90 items to checker 4
+818: s54 started checkout with checker 4
+819: s221 entered store
+819: s605 done shopping
+819: s793 done shopping
+819: s572 done shopping
+820: s490 entered store
+820: s179 done shopping
+821: s438 entered store
+821: s863 entered store
+821: s874 done shopping
+821: s677 done shopping
+822: s276 done shopping
+823: s227 entered store
+823: s840 done shopping
+823: s370 paid $186 for 62 items to checker 2
+823: s238 started checkout with checker 2
+824: s804 done shopping
+825: s88 paid $75 for 25 items to checker 1
+825: s229 started checkout with checker 1
+826: s292 entered store
+826: s467 entered store
+827: s738 entered store
+827: s891 done shopping
+827: s822 paid $291 for 97 items to checker 8
+827: s23 started checkout with checker 8
+828: s315 entered store
+828: s474 done shopping
+829: s80 entered store
+829: s344 entered store
+829: s70 done shopping
+829: s871 done shopping
+830: s718 done shopping
+830: s740 paid $222 for 74 items to checker 9
+830: s949 started checkout with checker 9
+831: s964 done shopping
+831: s971 done shopping
+831: s221 done shopping
+832: s64 done shopping
+833: s620 entered store
+833: s663 done shopping
+834: s666 entered store
+834: s796 entered store
+834: s402 done shopping
+834: s163 done shopping
+834: s697 done shopping
+834: s238 paid $33 for 11 items to checker 2
+834: s255 started checkout with checker 2
+835: s533 entered store
+835: s734 entered store
+835: s752 entered store
+835: s542 done shopping
+835: s653 done shopping
+835: s963 paid $222 for 74 items to checker 0
+835: s112 started checkout with checker 0
+836: s996 done shopping
+836: s480 done shopping
+836: s292 done shopping
+837: s484 done shopping
+839: s100 done shopping
+839: s833 done shopping
+840: s273 done shopping
+841: s719 done shopping
+843: s830 done shopping
+843: s551 done shopping
+843: s231 done shopping
+845: s842 done shopping
+849: s10 done shopping
+850: s189 entered store
+851: s125 entered store
+851: s338 entered store
+852: s244 entered store
+852: s341 entered store
+852: s678 entered store
+853: s768 entered store
+853: s419 done shopping
+853: s416 done shopping
+853: s955 done shopping
+854: s530 entered store
+855: s593 entered store
+858: s288 entered store
+858: s812 done shopping
+858: s907 paid $141 for 47 items to checker 7
+858: s592 started checkout with checker 7
+859: s406 done shopping
+860: s59 entered store
+860: s757 entered store
+860: s107 done shopping
+860: s54 paid $126 for 42 items to checker 4
+860: s470 started checkout with checker 4
+861: s739 entered store
+861: s791 done shopping
+861: s356 done shopping
+862: s507 entered store
+862: s538 entered store
+862: s788 entered store
+862: s983 done shopping
+862: s415 done shopping
+862: s1 done shopping
+862: s277 paid $180 for 60 items to checker 3
+862: s173 started checkout with checker 3
+864: s609 entered store
+864: s743 entered store
+864: s556 done shopping
+864: s244 done shopping
+866: s609 done shopping
+868: s706 done shopping
+868: s538 done shopping
+869: s245 entered store
+869: s993 entered store
+869: s578 done shopping
+871: s543 entered store
+871: s821 done shopping
+871: s768 done shopping
+872: s206 paid $225 for 75 items to checker 6
+872: s549 started checkout with checker 6
+873: s868 entered store
+873: s861 done shopping
+874: s18 entered store
+874: s481 entered store
+874: s552 entered store
+874: s989 entered store
+874: s324 done shopping
+874: s743 done shopping
+874: s470 paid $42 for 14 items to checker 4
+874: s952 started checkout with checker 4
+875: s255 paid $123 for 41 items to checker 2
+875: s269 started checkout with checker 2
+876: s858 entered store
+876: s218 done shopping
+876: s223 done shopping
+876: s507 done shopping
+877: s695 entered store
+877: s568 done shopping
+877: s245 done shopping
+878: s503 entered store
+878: s860 entered store
+878: s741 done shopping
+878: s603 done shopping
+878: s701 done shopping
+879: s494 done shopping
+879: s424 done shopping
+880: s598 done shopping
+880: s755 done shopping
+880: s503 done shopping
+881: s548 entered store
+881: s763 entered store
+881: s818 entered store
+882: s93 entered store
+882: s393 done shopping
+882: s315 done shopping
+883: s795 entered store
+884: s466 entered store
+884: s563 entered store
+884: s581 entered store
+884: s554 done shopping
+885: s652 entered store
+885: s81 done shopping
+885: s835 done shopping
+885: s915 done shopping
+886: s72 done shopping
+887: s0 entered store
+887: s358 entered store
+887: s851 entered store
+887: s298 done shopping
+888: s103 entered store
+888: s588 entered store
+888: s336 done shopping
+888: s924 done shopping
+888: s481 done shopping
+889: s186 entered store
+889: s311 entered store
+889: s84 done shopping
+889: s734 done shopping
+890: s727 entered store
+891: s138 done shopping
+892: s466 done shopping
+893: s293 entered store
+894: s913 entered store
+894: s926 entered store
+894: s975 entered store
+894: s974 done shopping
+894: s110 done shopping
+895: s94 entered store
+895: s604 entered store
+895: s395 done shopping
+895: s690 done shopping
+895: s638 done shopping
+897: s764 entered store
+898: s512 entered store
+898: s979 done shopping
+898: s552 done shopping
+898: s860 done shopping
+899: s119 entered store
+900: s14 entered store
+900: s433 entered store
+900: s597 entered store
+900: s512 done shopping
+901: s160 entered store
+901: s296 done shopping
+901: s794 paid $255 for 85 items to checker 5
+901: s689 started checkout with checker 5
+902: s753 entered store
+903: s150 entered store
+903: s381 entered store
+903: s394 entered store
+903: s948 entered store
+903: s958 entered store
+904: s678 done shopping
+905: s69 entered store
+905: s776 entered store
+905: s852 entered store
+906: s399 entered store
+907: s667 entered store
+907: s875 entered store
+908: s516 done shopping
+908: s490 done shopping
+908: s666 done shopping
+909: s134 entered store
+911: s317 entered store
+911: s920 done shopping
+911: s949 paid $243 for 81 items to checker 9
+911: s181 started checkout with checker 9
+912: s790 entered store
+912: s467 done shopping
+913: s380 entered store
+914: s928 entered store
+914: s103 done shopping
+914: s592 paid $168 for 56 items to checker 7
+914: s845 started checkout with checker 7
+915: s805 entered store
+915: s863 done shopping
+916: s412 entered store
+917: s175 done shopping
+917: s102 done shopping
+917: s999 done shopping
+918: s71 entered store
+918: s124 done shopping
+918: s581 done shopping
+919: s226 entered store
+919: s229 paid $282 for 94 items to checker 1
+919: s650 started checkout with checker 1
+920: s374 entered store
+920: s488 entered store
+920: s112 paid $255 for 85 items to checker 0
+920: s707 started checkout with checker 0
+921: s113 entered store
+921: s766 done shopping
+921: s173 paid $177 for 59 items to checker 3
+921: s553 started checkout with checker 3
+923: s234 done shopping
+923: s776 done shopping
+923: s23 paid $288 for 96 items to checker 8
+923: s212 started checkout with checker 8
+924: s594 done shopping
+924: s681 done shopping
+924: s789 done shopping
+925: s260 entered store
+925: s541 entered store
+925: s760 entered store
+925: s599 done shopping
+925: s394 done shopping
+925: s689 paid $72 for 24 items to checker 5
+925: s972 started checkout with checker 5
+926: s20 entered store
+926: s448 entered store
+926: s168 done shopping
+926: s189 done shopping
+927: s702 entered store
+927: s76 done shopping
+927: s119 done shopping
+927: s549 paid $165 for 55 items to checker 6
+927: s862 started checkout with checker 6
+928: s862 paid $3 for 1 item to checker 6
+928: s574 started checkout with checker 6
+930: s590 entered store
+930: s913 done shopping
+931: s517 entered store
+931: s635 entered store
+931: s620 done shopping
+931: s763 done shopping
+931: s818 done shopping
+931: s604 done shopping
+931: s226 done shopping
+932: s321 entered store
+932: s682 entered store
+932: s366 done shopping
+932: s796 done shopping
+932: s926 done shopping
+934: s59 done shopping
+934: s757 done shopping
+935: s925 entered store
+935: s998 entered store
+935: s752 done shopping
+937: s101 entered store
+937: s995 entered store
+938: s607 entered store
+938: s908 entered store
+938: s444 done shopping
+938: s243 done shopping
+938: s33 done shopping
+939: s397 entered store
+940: s457 entered store
+940: s326 done shopping
+941: s187 done shopping
+941: s311 done shopping
+943: s591 entered store
+943: s202 done shopping
+943: s739 done shopping
+943: s69 done shopping
+943: s650 paid $72 for 24 items to checker 1
+943: s843 started checkout with checker 1
+944: s93 done shopping
+945: s705 entered store
+945: s929 entered store
+946: s191 entered store
+946: s735 entered store
+946: s991 entered store
+946: s989 done shopping
+946: s597 done shopping
+946: s457 done shopping
+947: s177 entered store
+947: s673 entered store
+947: s742 entered store
+947: s853 entered store
+947: s950 entered store
+947: s26 done shopping
+948: s207 entered store
+948: s771 entered store
+948: s815 done shopping
+949: s390 entered store
+949: s435 entered store
+949: s459 done shopping
+950: s161 entered store
+950: s247 entered store
+950: s365 entered store
+950: s567 entered store
+950: s892 entered store
+951: s220 entered store
+952: s97 done shopping
+952: s269 paid $231 for 77 items to checker 2
+952: s756 started checkout with checker 2
+953: s323 entered store
+953: s464 entered store
+953: s101 done shopping
+955: s327 entered store
+955: s372 entered store
+955: s993 done shopping
+956: s659 entered store
+957: s378 entered store
+957: s644 entered store
+957: s864 entered store
+957: s707 paid $111 for 37 items to checker 0
+957: s230 started checkout with checker 0
+959: s661 entered store
+959: s948 done shopping
+960: s272 entered store
+960: s844 entered store
+961: s367 entered store
+961: s426 entered store
+961: s691 entered store
+961: s977 entered store
+961: s585 done shopping
+961: s390 done shopping
+962: s129 entered store
+963: s297 entered store
+963: s125 done shopping
+964: s713 entered store
+964: s771 done shopping
+964: s972 paid $117 for 39 items to checker 5
+964: s50 started checkout with checker 5
+965: s158 entered store
+965: s805 done shopping
+965: s952 paid $273 for 91 items to checker 4
+965: s441 started checkout with checker 4
+967: s500 entered store
+967: s186 done shopping
+967: s181 paid $168 for 56 items to checker 9
+967: s217 started checkout with checker 9
+969: s868 done shopping
+969: s317 done shopping
+970: s359 entered store
+971: s178 entered store
+971: s113 done shopping
+971: s426 done shopping
+973: s116 entered store
+973: s462 entered store
+973: s215 done shopping
+973: s344 done shopping
+974: s595 entered store
+975: s685 entered store
+975: s986 entered store
+975: s533 done shopping
+976: s145 entered store
+977: s320 entered store
+977: s376 entered store
+977: s338 done shopping
+977: s635 done shopping
+978: s991 done shopping
+978: s595 done shopping
+978: s441 paid $39 for 13 items to checker 4
+978: s616 started checkout with checker 4
+979: s160 done shopping
+979: s685 done shopping
+980: s530 done shopping
+981: s389 entered store
+982: s341 done shopping
+982: s908 done shopping
+983: s526 entered store
+983: s438 done shopping
+983: s541 done shopping
+984: s786 entered store
+984: s488 done shopping
+985: s254 entered store
+985: s517 done shopping
+986: s335 entered store
+986: s534 done shopping
+986: s843 paid $129 for 43 items to checker 1
+986: s574 paid $174 for 58 items to checker 6
+986: s515 started checkout with checker 1
+986: s303 started checkout with checker 6
+987: s642 entered store
+987: s966 entered store
+987: s478 done shopping
+987: s673 done shopping
+988: s57 entered store
+988: s345 entered store
+989: s162 entered store
+989: s493 entered store
+989: s227 done shopping
+989: s593 done shopping
+989: s323 done shopping
+990: s282 entered store
+991: s696 entered store
+992: s275 entered store
+992: s247 done shopping
+993: s652 done shopping
+993: s756 paid $123 for 41 items to checker 2
+993: s198 started checkout with checker 2
+994: s127 entered store
+994: s18 done shopping
+995: s123 entered store
+995: s439 entered store
+995: s951 entered store
+995: s661 done shopping
+997: s19 entered store
+997: s96 entered store
+997: s738 done shopping
+997: s293 done shopping
+997: s951 done shopping
+998: s331 entered store
+998: s588 done shopping
+998: s735 done shopping
+1000: s819 entered store
+1000: s727 done shopping
+1001: s995 done shopping
+1001: s230 paid $132 for 44 items to checker 0
+1001: s515 paid $45 for 15 items to checker 1
+1001: s130 started checkout with checker 0
+1001: s808 started checkout with checker 1
+1003: s428 done shopping
+1003: s553 paid $246 for 82 items to checker 3
+1003: s248 started checkout with checker 3
+1004: s858 done shopping
+1004: s433 done shopping
+1005: s695 done shopping
+1005: s123 done shopping
+1006: s127 done shopping
+1010: s567 done shopping
+1011: s845 paid $291 for 97 items to checker 7
+1011: s485 started checkout with checker 7
+1013: s327 done shopping
+1014: s563 done shopping
+1014: s448 done shopping
+1015: s795 done shopping
+1015: s705 done shopping
+1017: s94 done shopping
+1017: s864 done shopping
+1017: s303 paid $93 for 31 items to checker 6
+1017: s817 started checkout with checker 6
+1018: s272 done shopping
+1018: s808 paid $51 for 17 items to checker 1
+1018: s166 started checkout with checker 1
+1020: s212 paid $291 for 97 items to checker 8
+1020: s772 started checkout with checker 8
+1021: s817 stole $1632 and 54 items from checker 6
+1021: s884 started checkout with checker 6
+1022: s786 done shopping
+1025: s220 done shopping
+1025: s884 stole $0 and 66 items from checker 6
+1025: s472 started checkout with checker 6
+1027: s134 done shopping
+1027: s853 done shopping
+1027: s462 done shopping
+1028: s788 done shopping
+1029: s80 done shopping
+1029: s702 done shopping
+1029: s367 done shopping
+1031: s851 done shopping
+1032: s753 done shopping
+1033: s764 done shopping
+1036: s682 done shopping
+1037: s485 paid $78 for 26 items to checker 7
+1037: s105 started checkout with checker 7
+1039: s760 done shopping
+1041: s381 done shopping
+1041: s925 done shopping
+1041: s105 stole $2899 and 11 items from checker 7
+1041: s824 started checkout with checker 7
+1042: s359 done shopping
+1043: s0 done shopping
+1044: s282 done shopping
+1045: s875 done shopping
+1045: s464 done shopping
+1046: s130 paid $135 for 45 items to checker 0
+1046: s655 started checkout with checker 0
+1048: s288 done shopping
+1049: s642 done shopping
+1051: s198 paid $174 for 58 items to checker 2
+1051: s217 paid $252 for 84 items to checker 9
+1051: s286 started checkout with checker 2
+1051: s452 started checkout with checker 9
+1052: s207 done shopping
+1052: s659 done shopping
+1055: s358 done shopping
+1055: s397 done shopping
+1055: s691 done shopping
+1057: s977 done shopping
+1058: s472 paid $99 for 33 items to checker 6
+1058: s148 started checkout with checker 6
+1061: s50 paid $291 for 97 items to checker 5
+1061: s445 started checkout with checker 5
+1062: s365 done shopping
+1065: s543 done shopping
+1065: s452 paid $42 for 14 items to checker 9
+1065: s95 started checkout with checker 9
+1067: s248 paid $192 for 64 items to checker 3
+1067: s934 started checkout with checker 3
+1068: s616 paid $270 for 90 items to checker 4
+1068: s942 started checkout with checker 4
+1070: s14 done shopping
+1070: s607 done shopping
+1071: s548 done shopping
+1071: s958 done shopping
+1072: s129 done shopping
+1073: s526 done shopping
+1075: s178 done shopping
+1080: s975 done shopping
+1080: s166 paid $186 for 62 items to checker 1
+1080: s625 started checkout with checker 1
+1081: s742 done shopping
+1082: s942 paid $42 for 14 items to checker 4
+1082: s79 started checkout with checker 4
+1085: s852 done shopping
+1087: s148 paid $87 for 29 items to checker 6
+1087: s121 started checkout with checker 6
+1088: s399 done shopping
+1090: s412 done shopping
+1091: s260 done shopping
+1093: s150 done shopping
+1093: s966 done shopping
+1094: s934 paid $81 for 27 items to checker 3
+1094: s79 paid $36 for 12 items to checker 4
+1094: s799 started checkout with checker 3
+1094: s807 started checkout with checker 4
+1095: s29 done shopping
+1098: s799 stole $2226 and 45 items from checker 3
+1098: s527 started checkout with checker 3
+1099: s380 done shopping
+1099: s772 paid $237 for 79 items to checker 8
+1099: s325 started checkout with checker 8
+1100: s928 done shopping
+1100: s374 done shopping
+1100: s20 done shopping
+1102: s790 done shopping
+1102: s335 done shopping
+1102: s57 done shopping
+1102: s345 done shopping
+1105: s591 done shopping
+1105: s439 done shopping
+1105: s655 paid $177 for 59 items to checker 0
+1105: s824 paid $192 for 64 items to checker 7
+1105: s13 started checkout with checker 0
+1105: s349 started checkout with checker 7
+1107: s667 done shopping
+1107: s372 done shopping
+1108: s321 done shopping
+1109: s986 done shopping
+1112: s71 done shopping
+1114: s191 done shopping
+1117: s96 done shopping
+1118: s349 paid $39 for 13 items to checker 7
+1118: s274 started checkout with checker 7
+1119: s116 done shopping
+1121: s929 done shopping
+1121: s378 done shopping
+1123: s625 paid $129 for 43 items to checker 1
+1123: s334 started checkout with checker 1
+1124: s590 done shopping
+1125: s527 paid $81 for 27 items to checker 3
+1125: s662 started checkout with checker 3
+1127: s334 stole $2235 and 22 items from checker 1
+1127: s662 paid $6 for 2 items to checker 3
+1127: s736 started checkout with checker 1
+1127: s118 started checkout with checker 3
+1129: s177 done shopping
+1129: s950 done shopping
+1130: s161 done shopping
+1130: s713 done shopping
+1131: s254 done shopping
+1134: s736 paid $21 for 7 items to checker 1
+1134: s364 started checkout with checker 1
+1135: s998 done shopping
+1137: s644 done shopping
+1137: s158 done shopping
+1138: s844 done shopping
+1139: s435 done shopping
+1142: s286 paid $273 for 91 items to checker 2
+1142: s722 started checkout with checker 2
+1145: s376 done shopping
+1146: s275 done shopping
+1147: s95 paid $246 for 82 items to checker 9
+1147: s302 started checkout with checker 9
+1148: s892 done shopping
+1149: s807 paid $165 for 55 items to checker 4
+1149: s901 started checkout with checker 4
+1153: s274 paid $105 for 35 items to checker 7
+1153: s184 started checkout with checker 7
+1154: s145 done shopping
+1156: s722 paid $42 for 14 items to checker 2
+1156: s264 started checkout with checker 2
+1157: s445 paid $288 for 96 items to checker 5
+1157: s184 stole $336 and 56 items from checker 7
+1157: s21 started checkout with checker 5
+1157: s174 started checkout with checker 7
+1158: s174 paid $3 for 1 item to checker 7
+1158: s582 started checkout with checker 7
+1159: s297 done shopping
+1160: s264 stole $1848 and 63 items from checker 2
+1160: s968 started checkout with checker 2
+1161: s696 done shopping
+1161: s19 done shopping
+1163: s500 done shopping
+1163: s21 paid $18 for 6 items to checker 5
+1163: s894 started checkout with checker 5
+1166: s331 done shopping
+1167: s894 stole $2121 and 3 items from checker 5
+1167: s85 started checkout with checker 5
+1168: s364 paid $102 for 34 items to checker 1
+1168: s118 paid $123 for 41 items to checker 3
+1168: s947 started checkout with checker 1
+1168: s309 started checkout with checker 3
+1169: s389 done shopping
+1169: s121 paid $246 for 82 items to checker 6
+1169: s167 started checkout with checker 6
+1170: s819 done shopping
+1175: s162 done shopping
+1177: s320 done shopping
+1179: s493 done shopping
+1179: s13 paid $222 for 74 items to checker 0
+1179: s308 started checkout with checker 0
+1184: s901 paid $105 for 35 items to checker 4
+1184: s16 started checkout with checker 4
+1187: s167 paid $54 for 18 items to checker 6
+1187: s280 started checkout with checker 6
+1191: s968 paid $93 for 31 items to checker 2
+1191: s880 started checkout with checker 2
+1194: s947 paid $78 for 26 items to checker 1
+1194: s943 started checkout with checker 1
+1195: s325 paid $288 for 96 items to checker 8
+1195: s122 started checkout with checker 8
+1197: s309 paid $87 for 29 items to checker 3
+1197: s280 paid $30 for 10 items to checker 6
+1197: s846 started checkout with checker 3
+1197: s674 started checkout with checker 6
+1198: s308 paid $57 for 19 items to checker 0
+1198: s16 paid $42 for 14 items to checker 4
+1198: s770 started checkout with checker 0
+1198: s252 started checkout with checker 4
+1199: s122 stole $3391 and 33 items from checker 8
+1199: s671 started checkout with checker 8
+1204: s85 paid $111 for 37 items to checker 5
+1204: s511 started checkout with checker 5
+1219: s511 paid $45 for 15 items to checker 5
+1219: s811 started checkout with checker 5
+1225: s811 paid $18 for 6 items to checker 5
+1225: s287 started checkout with checker 5
+1229: s770 paid $93 for 31 items to checker 0
+1229: s159 started checkout with checker 0
+1231: s252 paid $99 for 33 items to checker 4
+1231: s923 started checkout with checker 4
+1233: s159 stole $3661 and 36 items from checker 0
+1233: s302 paid $258 for 86 items to checker 9
+1233: s235 started checkout with checker 0
+1233: s3 started checkout with checker 9
+1238: s923 paid $21 for 7 items to checker 4
+1238: s537 started checkout with checker 4
+1241: s582 paid $249 for 83 items to checker 7
+1241: s888 started checkout with checker 7
+1256: s943 paid $186 for 62 items to checker 1
+1256: s880 paid $195 for 65 items to checker 2
+1256: s455 started checkout with checker 1
+1256: s253 started checkout with checker 2
+1257: s287 paid $96 for 32 items to checker 5
+1257: s886 started checkout with checker 5
+1261: s3 paid $84 for 28 items to checker 9
+1261: s579 started checkout with checker 9
+1266: s671 paid $201 for 67 items to checker 8
+1266: s371 started checkout with checker 8
+1269: s235 paid $108 for 36 items to checker 0
+1269: s300 started checkout with checker 0
+1276: s537 paid $114 for 38 items to checker 4
+1276: s922 started checkout with checker 4
+1278: s253 paid $66 for 22 items to checker 2
+1278: s139 started checkout with checker 2
+1290: s886 paid $99 for 33 items to checker 5
+1290: s918 started checkout with checker 5
+1291: s300 paid $66 for 22 items to checker 0
+1291: s368 started checkout with checker 0
+1294: s674 paid $291 for 97 items to checker 6
+1294: s141 started checkout with checker 6
+1296: s455 paid $120 for 40 items to checker 1
+1296: s846 paid $297 for 99 items to checker 3
+1296: s525 started checkout with checker 1
+1296: s188 started checkout with checker 3
+1303: s188 paid $21 for 7 items to checker 3
+1303: s285 started checkout with checker 3
+1308: s139 paid $90 for 30 items to checker 2
+1308: s751 started checkout with checker 2
+1313: s525 paid $51 for 17 items to checker 1
+1313: s414 started checkout with checker 1
+1317: s371 paid $153 for 51 items to checker 8
+1317: s27 started checkout with checker 8
+1336: s414 paid $69 for 23 items to checker 1
+1336: s888 paid $285 for 95 items to checker 7
+1336: s339 started checkout with checker 1
+1336: s618 started checkout with checker 7
+1337: s922 paid $183 for 61 items to checker 4
+1337: s918 paid $141 for 47 items to checker 5
+1337: s668 started checkout with checker 4
+1337: s143 started checkout with checker 5
+1354: s339 paid $54 for 18 items to checker 1
+1354: s658 started checkout with checker 1
+1360: s751 paid $156 for 52 items to checker 2
+1360: s579 paid $297 for 99 items to checker 9
+1360: s82 started checkout with checker 2
+1360: s342 started checkout with checker 9
+1363: s368 paid $216 for 72 items to checker 0
+1363: s982 started checkout with checker 0
+1372: s82 paid $36 for 12 items to checker 2
+1372: s330 started checkout with checker 2
+1373: s330 paid $3 for 1 item to checker 2
+1373: s759 started checkout with checker 2
+1379: s285 paid $228 for 76 items to checker 3
+1379: s885 started checkout with checker 3
+1383: s885 stole $843 and 24 items from checker 3
+1383: s398 started checkout with checker 3
+1385: s141 paid $273 for 91 items to checker 6
+1385: s785 started checkout with checker 6
+1394: s398 paid $33 for 11 items to checker 3
+1394: s575 started checkout with checker 3
+1396: s27 paid $237 for 79 items to checker 8
+1396: s193 started checkout with checker 8
+1398: s668 paid $183 for 61 items to checker 4
+1398: s147 started checkout with checker 4
+1420: s147 paid $66 for 22 items to checker 4
+1420: s558 started checkout with checker 4
+1430: s143 paid $279 for 93 items to checker 5
+1430: s809 started checkout with checker 5
+1436: s618 paid $300 for 100 items to checker 7
+1436: s882 started checkout with checker 7
+1443: s982 paid $240 for 80 items to checker 0
+1443: s456 started checkout with checker 0
+1444: s558 paid $72 for 24 items to checker 4
+1444: s473 started checkout with checker 4
+1445: s658 paid $273 for 91 items to checker 1
+1445: s114 started checkout with checker 1
+1448: s785 paid $189 for 63 items to checker 6
+1448: s37 started checkout with checker 6
+1449: s759 paid $228 for 76 items to checker 2
+1449: s762 started checkout with checker 2
+1452: s342 paid $276 for 92 items to checker 9
+1452: s608 started checkout with checker 9
+1473: s608 paid $63 for 21 items to checker 9
+1473: s314 started checkout with checker 9
+1478: s575 paid $252 for 84 items to checker 3
+1478: s882 paid $126 for 42 items to checker 7
+1478: s513 started checkout with checker 3
+1478: s408 started checkout with checker 7
+1480: s193 paid $252 for 84 items to checker 8
+1480: s748 started checkout with checker 8
+1508: s513 paid $90 for 30 items to checker 3
+1508: s400 started checkout with checker 3
+1521: s762 paid $216 for 72 items to checker 2
+1521: s721 started checkout with checker 2
+1529: s37 paid $243 for 81 items to checker 6
+1529: s266 started checkout with checker 6
+1530: s809 paid $300 for 100 items to checker 5
+1530: s937 started checkout with checker 5
+1531: s314 paid $174 for 58 items to checker 9
+1531: s420 started checkout with checker 9
+1534: s721 paid $39 for 13 items to checker 2
+1534: s514 started checkout with checker 2
+1535: s473 paid $273 for 91 items to checker 4
+1535: s45 started checkout with checker 4
+1538: s514 stole $1122 and 80 items from checker 2
+1538: s431 started checkout with checker 2
+1542: s456 paid $297 for 99 items to checker 0
+1542: s114 paid $291 for 97 items to checker 1
+1542: s872 started checkout with checker 0
+1542: s930 started checkout with checker 1
+1547: s400 paid $117 for 39 items to checker 3
+1547: s825 started checkout with checker 3
+1565: s420 paid $102 for 34 items to checker 9
+1565: s841 started checkout with checker 9
+1569: s748 paid $267 for 89 items to checker 8
+1569: s877 started checkout with checker 8
+1573: s408 paid $285 for 95 items to checker 7
+1573: s909 started checkout with checker 7
+1577: s909 stole $1248 and 88 items from checker 7
+1577: s869 started checkout with checker 7
+1586: s431 paid $144 for 48 items to checker 2
+1586: s731 started checkout with checker 2
+1592: s937 paid $186 for 62 items to checker 5
+1592: s12 started checkout with checker 5
+1597: s869 paid $60 for 20 items to checker 7
+1597: s91 started checkout with checker 7
+1599: s930 paid $171 for 57 items to checker 1
+1599: s798 started checkout with checker 1
+1601: s91 stole $60 and 51 items from checker 7
+1601: s893 started checkout with checker 7
+1602: s872 paid $180 for 60 items to checker 0
+1602: s266 paid $219 for 73 items to checker 6
+1602: s39 started checkout with checker 0
+1602: s346 started checkout with checker 6
+1604: s12 paid $36 for 12 items to checker 5
+1604: s299 started checkout with checker 5
+1606: s39 stole $1107 and 20 items from checker 0
+1606: s536 started checkout with checker 0
+1614: s841 paid $147 for 49 items to checker 9
+1614: s224 started checkout with checker 9
+1619: s45 paid $252 for 84 items to checker 4
+1619: s210 started checkout with checker 4
+1623: s536 paid $51 for 17 items to checker 0
+1623: s468 started checkout with checker 0
+1642: s825 paid $285 for 95 items to checker 3
+1642: s535 started checkout with checker 3
+1644: s731 paid $174 for 58 items to checker 2
+1644: s544 started checkout with checker 2
+1656: s544 paid $36 for 12 items to checker 2
+1656: s797 started checkout with checker 2
+1657: s877 paid $264 for 88 items to checker 8
+1657: s434 started checkout with checker 8
+1661: s434 stole $1374 and 54 items from checker 8
+1661: s52 started checkout with checker 8
+1670: s224 paid $168 for 56 items to checker 9
+1670: s357 started checkout with checker 9
+1673: s346 paid $213 for 71 items to checker 6
+1673: s196 started checkout with checker 6
+1678: s893 paid $231 for 77 items to checker 7
+1678: s778 started checkout with checker 7
+1680: s797 paid $72 for 24 items to checker 2
+1680: s213 started checkout with checker 2
+1683: s52 paid $66 for 22 items to checker 8
+1683: s919 started checkout with checker 8
+1685: s798 paid $258 for 86 items to checker 1
+1685: s778 paid $21 for 7 items to checker 7
+1685: s357 paid $45 for 15 items to checker 9
+1685: s627 started checkout with checker 1
+1685: s232 started checkout with checker 7
+1685: s570 started checkout with checker 9
+1686: s919 paid $9 for 3 items to checker 8
+1686: s670 started checkout with checker 8
+1689: s232 stole $252 and 63 items from checker 7
+1689: s856 started checkout with checker 7
+1692: s299 paid $264 for 88 items to checker 5
+1692: s196 paid $57 for 19 items to checker 6
+1692: s440 started checkout with checker 5
+1692: s692 started checkout with checker 6
+1695: s670 paid $27 for 9 items to checker 8
+1695: s781 started checkout with checker 8
+1696: s692 stole $2001 and 30 items from checker 6
+1696: s664 started checkout with checker 6
+1698: s468 paid $225 for 75 items to checker 0
+1698: s839 started checkout with checker 0
+1701: s210 paid $246 for 82 items to checker 4
+1701: s546 started checkout with checker 4
+1725: s535 paid $249 for 83 items to checker 3
+1725: s34 started checkout with checker 3
+1726: s440 paid $102 for 34 items to checker 5
+1726: s570 paid $123 for 41 items to checker 9
+1726: s850 started checkout with checker 5
+1726: s787 started checkout with checker 9
+1730: s787 stole $3198 and 46 items from checker 9
+1730: s683 started checkout with checker 9
+1736: s627 paid $153 for 51 items to checker 1
+1736: s927 started checkout with checker 1
+1742: s927 paid $18 for 6 items to checker 1
+1742: s44 started checkout with checker 1
+1744: s781 paid $147 for 49 items to checker 8
+1744: s291 started checkout with checker 8
+1760: s839 paid $186 for 62 items to checker 0
+1760: s291 paid $48 for 16 items to checker 8
+1760: s720 started checkout with checker 0
+1760: s967 started checkout with checker 8
+1761: s213 paid $243 for 81 items to checker 2
+1761: s436 started checkout with checker 2
+1763: s664 paid $201 for 67 items to checker 6
+1763: s211 started checkout with checker 6
+1764: s720 stole $462 and 93 items from checker 0
+1764: s170 started checkout with checker 0
+1766: s211 paid $9 for 3 items to checker 6
+1766: s219 started checkout with checker 6
+1767: s850 paid $123 for 41 items to checker 5
+1767: s980 started checkout with checker 5
+1769: s436 paid $24 for 8 items to checker 2
+1769: s800 started checkout with checker 2
+1778: s219 paid $36 for 12 items to checker 6
+1778: s465 started checkout with checker 6
+1782: s856 paid $279 for 93 items to checker 7
+1782: s698 started checkout with checker 7
+1792: s546 paid $273 for 91 items to checker 4
+1792: s912 started checkout with checker 4
+1793: s34 paid $204 for 68 items to checker 3
+1793: s195 started checkout with checker 3
+1818: s465 paid $120 for 40 items to checker 6
+1818: s387 started checkout with checker 6
+1823: s195 paid $90 for 30 items to checker 3
+1823: s429 started checkout with checker 3
+1825: s44 paid $249 for 83 items to checker 1
+1825: s800 paid $168 for 56 items to checker 2
+1825: s956 started checkout with checker 1
+1825: s539 started checkout with checker 2
+1828: s683 paid $294 for 98 items to checker 9
+1828: s866 started checkout with checker 9
+1829: s429 paid $18 for 6 items to checker 3
+1829: s295 started checkout with checker 3
+1837: s387 paid $57 for 19 items to checker 6
+1837: s967 paid $231 for 77 items to checker 8
+1837: s899 started checkout with checker 6
+1837: s969 started checkout with checker 8
+1842: s170 paid $234 for 78 items to checker 0
+1842: s351 started checkout with checker 0
+1845: s295 paid $48 for 16 items to checker 3
+1845: s980 paid $234 for 78 items to checker 5
+1845: s617 started checkout with checker 3
+1845: s749 started checkout with checker 5
+1854: s698 paid $216 for 72 items to checker 7
+1854: s437 started checkout with checker 7
+1863: s912 paid $213 for 71 items to checker 4
+1863: s375 started checkout with checker 4
+1872: s617 paid $81 for 27 items to checker 3
+1872: s58 started checkout with checker 3
+1873: s866 paid $135 for 45 items to checker 9
+1873: s612 started checkout with checker 9
+1875: s969 paid $114 for 38 items to checker 8
+1875: s487 started checkout with checker 8
+1894: s749 paid $147 for 49 items to checker 5
+1894: s319 started checkout with checker 5
+1900: s58 paid $84 for 28 items to checker 3
+1900: s899 paid $189 for 63 items to checker 6
+1900: s626 started checkout with checker 3
+1900: s410 started checkout with checker 6
+1902: s375 paid $117 for 39 items to checker 4
+1902: s532 started checkout with checker 4
+1904: s410 stole $612 and 43 items from checker 6
+1904: s715 started checkout with checker 6
+1907: s487 paid $96 for 32 items to checker 8
+1907: s737 started checkout with checker 8
+1908: s626 paid $24 for 8 items to checker 3
+1908: s68 started checkout with checker 3
+1910: s532 paid $24 for 8 items to checker 4
+1910: s384 started checkout with checker 4
+1911: s737 stole $738 and 48 items from checker 8
+1911: s164 started checkout with checker 8
+1913: s956 paid $264 for 88 items to checker 1
+1913: s53 started checkout with checker 1
+1914: s539 paid $267 for 89 items to checker 2
+1914: s401 started checkout with checker 2
+1915: s68 paid $21 for 7 items to checker 3
+1915: s164 stole $0 and 83 items from checker 8
+1915: s203 started checkout with checker 3
+1915: s746 started checkout with checker 8
+1917: s746 paid $6 for 2 items to checker 8
+1917: s407 started checkout with checker 8
+1919: s437 paid $195 for 65 items to checker 7
+1919: s633 started checkout with checker 7
+1932: s351 paid $270 for 90 items to checker 0
+1932: s965 started checkout with checker 0
+1940: s633 paid $63 for 21 items to checker 7
+1940: s446 started checkout with checker 7
+1942: s612 paid $207 for 69 items to checker 9
+1942: s25 started checkout with checker 9
+1944: s446 stole $753 and 2 items from checker 7
+1944: s157 started checkout with checker 7
+1963: s715 paid $177 for 59 items to checker 6
+1963: s555 started checkout with checker 6
+1972: s965 paid $120 for 40 items to checker 0
+1972: s319 paid $234 for 78 items to checker 5
+1972: s758 started checkout with checker 0
+1972: s67 started checkout with checker 5
+1974: s157 paid $90 for 30 items to checker 7
+1974: s723 started checkout with checker 7
+1978: s203 paid $189 for 63 items to checker 3
+1978: s555 paid $45 for 15 items to checker 6
+1978: s611 started checkout with checker 3
+1978: s38 started checkout with checker 6
+1981: s407 paid $192 for 64 items to checker 8
+1981: s806 started checkout with checker 8
+1982: s401 paid $204 for 68 items to checker 2
+1982: s337 started checkout with checker 2
+1991: s806 paid $30 for 10 items to checker 8
+1991: s24 started checkout with checker 8
+1998: s384 paid $264 for 88 items to checker 4
+1998: s204 started checkout with checker 4
+1999: s337 paid $51 for 17 items to checker 2
+1999: s318 started checkout with checker 2
+2001: s758 paid $87 for 29 items to checker 0
+2001: s675 started checkout with checker 0
+2002: s53 paid $267 for 89 items to checker 1
+2002: s461 started checkout with checker 1
+2003: s318 stole $1383 and 89 items from checker 2
+2003: s723 paid $87 for 29 items to checker 7
+2003: s128 started checkout with checker 2
+2003: s479 started checkout with checker 7
+2006: s24 paid $45 for 15 items to checker 8
+2006: s848 started checkout with checker 8
+2007: s479 stole $177 and 41 items from checker 7
+2007: s25 paid $195 for 65 items to checker 9
+2007: s584 started checkout with checker 7
+2007: s521 started checkout with checker 9
+2008: s128 paid $15 for 5 items to checker 2
+2008: s890 started checkout with checker 2
+2016: s584 paid $27 for 9 items to checker 7
+2016: s583 started checkout with checker 7
+2019: s675 paid $54 for 18 items to checker 0
+2019: s306 started checkout with checker 0
+2035: s611 paid $171 for 57 items to checker 3
+2035: s887 started checkout with checker 3
+2036: s67 paid $192 for 64 items to checker 5
+2036: s350 started checkout with checker 5
+2043: s461 paid $123 for 41 items to checker 1
+2043: s489 started checkout with checker 1
+2044: s38 paid $198 for 66 items to checker 6
+2044: s75 started checkout with checker 6
+2048: s306 paid $87 for 29 items to checker 0
+2048: s703 started checkout with checker 0
+2052: s583 paid $108 for 36 items to checker 7
+2052: s477 started checkout with checker 7
+2053: s890 paid $135 for 45 items to checker 2
+2053: s268 started checkout with checker 2
+2054: s477 paid $6 for 2 items to checker 7
+2054: s744 started checkout with checker 7
+2069: s848 paid $189 for 63 items to checker 8
+2069: s641 started checkout with checker 8
+2071: s489 paid $84 for 28 items to checker 1
+2071: s2 started checkout with checker 1
+2075: s350 paid $117 for 39 items to checker 5
+2075: s28 started checkout with checker 5
+2079: s28 paid $12 for 4 items to checker 5
+2079: s645 started checkout with checker 5
+2084: s75 paid $120 for 40 items to checker 6
+2084: s521 paid $231 for 77 items to checker 9
+2084: s194 started checkout with checker 6
+2084: s5 started checkout with checker 9
+2091: s204 paid $279 for 93 items to checker 4
+2091: s550 started checkout with checker 4
+2111: s5 paid $81 for 27 items to checker 9
+2111: s614 started checkout with checker 9
+2118: s641 paid $147 for 49 items to checker 8
+2118: s896 started checkout with checker 8
+2119: s268 paid $198 for 66 items to checker 2
+2119: s834 started checkout with checker 2
+2121: s2 paid $150 for 50 items to checker 1
+2121: s646 started checkout with checker 1
+2122: s896 stole $609 and 69 items from checker 8
+2122: s36 started checkout with checker 8
+2123: s834 stole $348 and 26 items from checker 2
+2123: s887 paid $264 for 88 items to checker 3
+2123: s506 started checkout with checker 2
+2123: s290 started checkout with checker 3
+2127: s703 paid $237 for 79 items to checker 0
+2127: s954 started checkout with checker 0
+2131: s954 stole $1089 and 94 items from checker 0
+2131: s454 started checkout with checker 0
+2142: s194 paid $174 for 58 items to checker 6
+2142: s106 started checkout with checker 6
+2145: s744 paid $273 for 91 items to checker 7
+2145: s560 started checkout with checker 7
+2147: s454 paid $48 for 16 items to checker 0
+2147: s409 started checkout with checker 0
+2149: s106 paid $21 for 7 items to checker 6
+2149: s155 started checkout with checker 6
+2151: s409 stole $48 and 52 items from checker 0
+2151: s600 started checkout with checker 0
+2152: s600 paid $3 for 1 item to checker 0
+2152: s645 paid $219 for 73 items to checker 5
+2152: s192 started checkout with checker 0
+2152: s566 started checkout with checker 5
+2167: s550 paid $228 for 76 items to checker 4
+2167: s580 started checkout with checker 4
+2173: s506 paid $150 for 50 items to checker 2
+2173: s712 started checkout with checker 2
+2175: s36 paid $159 for 53 items to checker 8
+2175: s960 started checkout with checker 8
+2176: s712 paid $9 for 3 items to checker 2
+2176: s83 started checkout with checker 2
+2178: s83 paid $6 for 2 items to checker 2
+2178: s422 started checkout with checker 2
+2179: s646 paid $174 for 58 items to checker 1
+2179: s199 started checkout with checker 1
+2184: s155 paid $105 for 35 items to checker 6
+2184: s562 started checkout with checker 6
+2186: s614 paid $225 for 75 items to checker 9
+2186: s994 started checkout with checker 9
+2189: s580 paid $66 for 22 items to checker 4
+2189: s304 started checkout with checker 4
+2204: s304 paid $45 for 15 items to checker 4
+2204: s976 started checkout with checker 4
+2206: s290 paid $249 for 83 items to checker 3
+2206: s427 started checkout with checker 3
+2210: s566 paid $174 for 58 items to checker 5
+2210: s709 started checkout with checker 5
+2212: s960 paid $111 for 37 items to checker 8
+2212: s78 started checkout with checker 8
+2221: s709 paid $33 for 11 items to checker 5
+2221: s711 started checkout with checker 5
+2226: s192 paid $222 for 74 items to checker 0
+2226: s672 started checkout with checker 0
+2227: s560 paid $246 for 82 items to checker 7
+2227: s509 started checkout with checker 7
+2236: s427 paid $90 for 30 items to checker 3
+2236: s931 started checkout with checker 3
+2238: s199 paid $177 for 59 items to checker 1
+2238: s634 started checkout with checker 1
+2242: s994 paid $168 for 56 items to checker 9
+2242: s482 started checkout with checker 9
+2266: s422 paid $264 for 88 items to checker 2
+2266: s60 started checkout with checker 2
+2268: s78 paid $168 for 56 items to checker 8
+2268: s7 started checkout with checker 8
+2281: s634 paid $129 for 43 items to checker 1
+2281: s562 paid $291 for 97 items to checker 6
+2281: s613 started checkout with checker 1
+2281: s615 started checkout with checker 6
+2283: s976 paid $237 for 79 items to checker 4
+2283: s499 started checkout with checker 4
+2285: s931 paid $147 for 49 items to checker 3
+2285: s237 started checkout with checker 3
+2292: s615 paid $33 for 11 items to checker 6
+2292: s777 started checkout with checker 6
+2294: s482 paid $156 for 52 items to checker 9
+2294: s810 started checkout with checker 9
+2295: s777 paid $9 for 3 items to checker 6
+2295: s250 started checkout with checker 6
+2298: s711 paid $231 for 77 items to checker 5
+2298: s7 paid $90 for 30 items to checker 8
+2298: s405 started checkout with checker 5
+2298: s622 started checkout with checker 8
+2302: s622 stole $528 and 70 items from checker 8
+2302: s262 started checkout with checker 8
+2304: s60 paid $114 for 38 items to checker 2
+2304: s453 started checkout with checker 2
+2310: s613 paid $87 for 29 items to checker 1
+2310: s348 started checkout with checker 1
+2314: s348 stole $3549 and 62 items from checker 1
+2314: s237 paid $87 for 29 items to checker 3
+2314: s471 started checkout with checker 1
+2314: s780 started checkout with checker 3
+2316: s780 paid $6 for 2 items to checker 3
+2316: s624 started checkout with checker 3
+2320: s672 paid $282 for 94 items to checker 0
+2320: s921 started checkout with checker 0
+2325: s509 paid $294 for 98 items to checker 7
+2325: s310 started checkout with checker 7
+2331: s405 paid $99 for 33 items to checker 5
+2331: s312 started checkout with checker 5
+2332: s250 paid $111 for 37 items to checker 6
+2332: s829 started checkout with checker 6
+2336: s310 paid $33 for 11 items to checker 7
+2336: s876 started checkout with checker 7
+2347: s829 paid $45 for 15 items to checker 6
+2347: s803 started checkout with checker 6
+2358: s810 paid $192 for 64 items to checker 9
+2358: s631 started checkout with checker 9
+2362: s499 paid $237 for 79 items to checker 4
+2362: s997 started checkout with checker 4
+2369: s312 paid $114 for 38 items to checker 5
+2369: s647 started checkout with checker 5
+2375: s471 paid $183 for 61 items to checker 1
+2375: s453 paid $213 for 71 items to checker 2
+2375: s180 started checkout with checker 1
+2375: s916 started checkout with checker 2
+2379: s916 stole $756 and 94 items from checker 2
+2379: s8 started checkout with checker 2
+2388: s180 paid $39 for 13 items to checker 1
+2388: s606 started checkout with checker 1
+2395: s921 paid $225 for 75 items to checker 0
+2395: s154 started checkout with checker 0
+2397: s803 paid $150 for 50 items to checker 6
+2397: s469 started checkout with checker 6
+2401: s262 paid $297 for 99 items to checker 8
+2401: s628 started checkout with checker 8
+2402: s624 paid $258 for 86 items to checker 3
+2402: s153 started checkout with checker 3
+2403: s606 paid $45 for 15 items to checker 1
+2403: s497 started checkout with checker 1
+2406: s876 paid $210 for 70 items to checker 7
+2406: s724 started checkout with checker 7
+2407: s647 paid $114 for 38 items to checker 5
+2407: s816 started checkout with checker 5
+2411: s816 stole $3720 and 38 items from checker 5
+2411: s510 started checkout with checker 5
+2427: s510 paid $48 for 16 items to checker 5
+2427: s522 started checkout with checker 5
+2428: s469 paid $93 for 31 items to checker 6
+2428: s936 started checkout with checker 6
+2442: s8 paid $189 for 63 items to checker 2
+2442: s837 started checkout with checker 2
+2450: s997 paid $264 for 88 items to checker 4
+2450: s859 started checkout with checker 4
+2453: s631 paid $285 for 95 items to checker 9
+2453: s77 started checkout with checker 9
+2454: s522 paid $81 for 27 items to checker 5
+2454: s86 started checkout with checker 5
+2455: s154 paid $180 for 60 items to checker 0
+2455: s726 started checkout with checker 0
+2459: s726 stole $912 and 96 items from checker 0
+2459: s903 started checkout with checker 0
+2463: s724 paid $171 for 57 items to checker 7
+2463: s518 started checkout with checker 7
+2476: s859 paid $78 for 26 items to checker 4
+2476: s354 started checkout with checker 4
+2477: s86 paid $69 for 23 items to checker 5
+2477: s165 started checkout with checker 5
+2483: s497 paid $240 for 80 items to checker 1
+2483: s43 started checkout with checker 1
+2484: s153 paid $246 for 82 items to checker 3
+2484: s959 started checkout with checker 3
+2486: s936 paid $174 for 58 items to checker 6
+2486: s46 started checkout with checker 6
+2490: s46 stole $1746 and 29 items from checker 6
+2490: s628 paid $267 for 89 items to checker 8
+2490: s66 started checkout with checker 6
+2490: s854 started checkout with checker 8
+2493: s518 paid $90 for 30 items to checker 7
+2493: s301 started checkout with checker 7
+2518: s77 paid $195 for 65 items to checker 9
+2518: s906 started checkout with checker 9
+2519: s906 paid $3 for 1 item to checker 9
+2519: s767 started checkout with checker 9
+2522: s959 paid $114 for 38 items to checker 3
+2522: s832 started checkout with checker 3
+2524: s903 paid $195 for 65 items to checker 0
+2524: s486 started checkout with checker 0
+2528: s486 stole $195 and 48 items from checker 0
+2528: s185 started checkout with checker 0
+2534: s837 paid $276 for 92 items to checker 2
+2534: s385 started checkout with checker 2
+2540: s43 paid $171 for 57 items to checker 1
+2540: s826 started checkout with checker 1
+2541: s854 paid $153 for 51 items to checker 8
+2541: s458 started checkout with checker 8
+2546: s832 paid $72 for 24 items to checker 3
+2546: s354 paid $210 for 70 items to checker 4
+2546: s347 started checkout with checker 3
+2546: s73 started checkout with checker 4
+2547: s165 paid $210 for 70 items to checker 5
+2547: s379 started checkout with checker 5
+2554: s301 paid $183 for 61 items to checker 7
+2554: s545 started checkout with checker 7
+2558: s347 paid $36 for 12 items to checker 3
+2558: s501 started checkout with checker 3
+2559: s379 paid $36 for 12 items to checker 5
+2559: s716 started checkout with checker 5
+2562: s185 paid $102 for 34 items to checker 0
+2562: s42 started checkout with checker 0
+2565: s767 paid $138 for 46 items to checker 9
+2565: s939 started checkout with checker 9
+2567: s66 paid $231 for 77 items to checker 6
+2567: s201 started checkout with checker 6
+2570: s458 paid $87 for 29 items to checker 8
+2570: s704 started checkout with checker 8
+2571: s201 stole $231 and 64 items from checker 6
+2571: s639 started checkout with checker 6
+2572: s42 paid $30 for 10 items to checker 0
+2572: s630 started checkout with checker 0
+2576: s826 paid $108 for 36 items to checker 1
+2576: s564 started checkout with checker 1
+2577: s564 paid $3 for 1 item to checker 1
+2577: s881 started checkout with checker 1
+2592: s385 paid $174 for 58 items to checker 2
+2592: s329 started checkout with checker 2
+2598: s630 paid $78 for 26 items to checker 0
+2598: s430 started checkout with checker 0
+2629: s716 paid $210 for 70 items to checker 5
+2629: s704 paid $177 for 59 items to checker 8
+2629: s636 started checkout with checker 5
+2629: s540 started checkout with checker 8
+2631: s501 paid $219 for 73 items to checker 3
+2631: s669 started checkout with checker 3
+2633: s540 stole $981 and 42 items from checker 8
+2633: s520 started checkout with checker 8
+2635: s669 stole $3744 and 68 items from checker 3
+2635: s307 started checkout with checker 3
+2637: s939 paid $216 for 72 items to checker 9
+2637: s133 started checkout with checker 9
+2638: s636 paid $27 for 9 items to checker 5
+2638: s694 started checkout with checker 5
+2639: s307 stole $0 and 91 items from checker 3
+2639: s176 started checkout with checker 3
+2642: s694 stole $681 and 90 items from checker 5
+2642: s545 paid $264 for 88 items to checker 7
+2642: s51 started checkout with checker 5
+2642: s769 started checkout with checker 7
+2646: s73 paid $300 for 100 items to checker 4
+2646: s717 started checkout with checker 4
+2648: s769 paid $18 for 6 items to checker 7
+2648: s700 started checkout with checker 7
+2659: s639 paid $264 for 88 items to checker 6
+2659: s271 started checkout with checker 6
+2660: s430 paid $186 for 62 items to checker 0
+2660: s962 started checkout with checker 0
+2664: s962 stole $396 and 26 items from checker 0
+2664: s881 paid $261 for 87 items to checker 1
+2664: s450 started checkout with checker 0
+2664: s476 started checkout with checker 1
+2665: s329 paid $219 for 73 items to checker 2
+2665: s156 started checkout with checker 2
+2669: s156 stole $858 and 16 items from checker 2
+2669: s940 started checkout with checker 2
+2674: s717 paid $84 for 28 items to checker 4
+2674: s225 started checkout with checker 4
+2688: s51 paid $138 for 46 items to checker 5
+2688: s492 started checkout with checker 5
+2693: s271 paid $102 for 34 items to checker 6
+2693: s693 started checkout with checker 6
+2718: s176 paid $237 for 79 items to checker 3
+2718: s569 started checkout with checker 3
+2727: s133 paid $270 for 90 items to checker 9
+2727: s242 started checkout with checker 9
+2729: s520 paid $288 for 96 items to checker 8
+2729: s109 started checkout with checker 8
+2732: s492 paid $132 for 44 items to checker 5
+2732: s784 started checkout with checker 5
+2733: s109 stole $288 and 5 items from checker 8
+2733: s710 started checkout with checker 8
+2739: s700 paid $273 for 91 items to checker 7
+2739: s879 started checkout with checker 7
+2741: s476 paid $231 for 77 items to checker 1
+2741: s200 started checkout with checker 1
+2743: s450 paid $237 for 79 items to checker 0
+2743: s225 paid $207 for 69 items to checker 4
+2743: s693 paid $150 for 50 items to checker 6
+2743: s879 stole $2196 and 4 items from checker 7
+2743: s953 started checkout with checker 0
+2743: s363 started checkout with checker 4
+2743: s49 started checkout with checker 6
+2743: s984 started checkout with checker 7
+2747: s984 stole $0 and 64 items from checker 7
+2747: s87 started checkout with checker 7
+2754: s940 paid $255 for 85 items to checker 2
+2754: s171 started checkout with checker 2
+2759: s200 paid $54 for 18 items to checker 1
+2759: s49 paid $48 for 16 items to checker 6
+2759: s565 started checkout with checker 1
+2759: s680 started checkout with checker 6
+2761: s242 paid $102 for 34 items to checker 9
+2761: s732 started checkout with checker 9
+2763: s953 paid $60 for 20 items to checker 0
+2763: s183 started checkout with checker 0
+2764: s87 paid $51 for 17 items to checker 7
+2764: s688 started checkout with checker 7
+2767: s183 stole $297 and 70 items from checker 0
+2767: s328 started checkout with checker 0
+2768: s569 paid $150 for 50 items to checker 3
+2768: s383 started checkout with checker 3
+2772: s732 paid $33 for 11 items to checker 9
+2772: s728 started checkout with checker 9
+2776: s728 stole $3126 and 9 items from checker 9
+2776: s528 started checkout with checker 9
+2781: s171 paid $81 for 27 items to checker 2
+2781: s22 started checkout with checker 2
+2783: s710 paid $150 for 50 items to checker 8
+2783: s729 started checkout with checker 8
+2785: s383 paid $51 for 17 items to checker 3
+2785: s369 started checkout with checker 3
+2794: s680 paid $105 for 35 items to checker 6
+2794: s216 started checkout with checker 6
+2795: s565 paid $108 for 36 items to checker 1
+2795: s22 paid $42 for 14 items to checker 2
+2795: s249 started checkout with checker 1
+2795: s6 started checkout with checker 2
+2798: s688 paid $102 for 34 items to checker 7
+2798: s460 started checkout with checker 7
+2807: s6 paid $36 for 12 items to checker 2
+2807: s547 started checkout with checker 2
+2810: s729 paid $81 for 27 items to checker 8
+2810: s353 started checkout with checker 8
+2820: s784 paid $264 for 88 items to checker 5
+2820: s333 started checkout with checker 5
+2826: s369 paid $123 for 41 items to checker 3
+2826: s111 started checkout with checker 3
+2831: s216 paid $111 for 37 items to checker 6
+2831: s730 started checkout with checker 6
+2837: s460 paid $117 for 39 items to checker 7
+2837: s867 started checkout with checker 7
+2839: s363 paid $288 for 96 items to checker 4
+2839: s31 started checkout with checker 4
+2841: s547 paid $102 for 34 items to checker 2
+2841: s524 started checkout with checker 2
+2845: s524 stole $516 and 1 item from checker 2
+2845: s900 started checkout with checker 2
+2846: s328 paid $237 for 79 items to checker 0
+2846: s730 paid $45 for 15 items to checker 6
+2846: s423 started checkout with checker 0
+2846: s531 started checkout with checker 6
+2849: s900 stole $0 and 55 items from checker 2
+2849: s519 started checkout with checker 2
+2852: s31 paid $39 for 13 items to checker 4
+2852: s353 paid $126 for 42 items to checker 8
+2852: s421 started checkout with checker 4
+2852: s573 started checkout with checker 8
+2853: s519 stole $0 and 10 items from checker 2
+2853: s576 started checkout with checker 2
+2855: s111 paid $87 for 29 items to checker 3
+2855: s333 paid $105 for 35 items to checker 5
+2855: s32 started checkout with checker 3
+2855: s676 started checkout with checker 5
+2856: s421 stole $6669 and 20 items from checker 4
+2856: s970 started checkout with checker 4
+2871: s528 paid $285 for 95 items to checker 9
+2871: s914 started checkout with checker 9
+2877: s249 paid $246 for 82 items to checker 1
+2877: s725 started checkout with checker 1
+2880: s576 paid $81 for 27 items to checker 2
+2880: s679 started checkout with checker 2
+2889: s531 paid $129 for 43 items to checker 6
+2889: s733 started checkout with checker 6
+2896: s914 paid $75 for 25 items to checker 9
+2896: s151 started checkout with checker 9
+2897: s423 paid $153 for 51 items to checker 0
+2897: s857 started checkout with checker 0
+2906: s676 paid $153 for 51 items to checker 5
+2906: s47 started checkout with checker 5
+2910: s867 paid $219 for 73 items to checker 7
+2910: s665 started checkout with checker 7
+2913: s733 paid $72 for 24 items to checker 6
+2913: s573 paid $183 for 61 items to checker 8
+2913: s40 started checkout with checker 6
+2913: s750 started checkout with checker 8
+2919: s725 paid $126 for 42 items to checker 1
+2919: s447 started checkout with checker 1
+2928: s679 paid $144 for 48 items to checker 2
+2928: s970 paid $216 for 72 items to checker 4
+2928: s610 started checkout with checker 2
+2928: s117 started checkout with checker 4
+2933: s610 paid $15 for 5 items to checker 2
+2933: s263 started checkout with checker 2
+2936: s47 paid $90 for 30 items to checker 5
+2936: s586 started checkout with checker 5
+2940: s151 paid $132 for 44 items to checker 9
+2940: s978 started checkout with checker 9
+2945: s40 paid $96 for 32 items to checker 6
+2945: s637 started checkout with checker 6
+2950: s32 paid $285 for 95 items to checker 3
+2950: s236 started checkout with checker 3
+2954: s637 paid $27 for 9 items to checker 6
+2954: s911 started checkout with checker 6
+2955: s857 paid $174 for 58 items to checker 0
+2955: s115 started checkout with checker 0
+2965: s911 paid $33 for 11 items to checker 6
+2965: s362 started checkout with checker 6
+2967: s978 paid $81 for 27 items to checker 9
+2967: s973 started checkout with checker 9
+2970: s750 paid $171 for 57 items to checker 8
+2970: s146 started checkout with checker 8
+2972: s665 paid $186 for 62 items to checker 7
+2972: s981 started checkout with checker 7
+2991: s447 paid $216 for 72 items to checker 1
+2991: s988 started checkout with checker 1
+3004: s236 paid $162 for 54 items to checker 3
+3004: s870 started checkout with checker 3
+3005: s586 paid $207 for 69 items to checker 5
+3005: s945 started checkout with checker 5
+3007: s146 paid $111 for 37 items to checker 8
+3007: s251 started checkout with checker 8
+3012: s263 paid $237 for 79 items to checker 2
+3012: s360 started checkout with checker 2
+3014: s117 paid $258 for 86 items to checker 4
+3014: s684 started checkout with checker 4
+3015: s973 paid $144 for 48 items to checker 9
+3015: s483 started checkout with checker 9
+3019: s483 stole $717 and 31 items from checker 9
+3019: s632 started checkout with checker 9
+3026: s251 paid $57 for 19 items to checker 8
+3026: s56 started checkout with checker 8
+3030: s362 paid $195 for 65 items to checker 6
+3030: s74 started checkout with checker 6
+3032: s945 paid $81 for 27 items to checker 5
+3032: s933 started checkout with checker 5
+3036: s933 stole $1170 and 10 items from checker 5
+3036: s605 started checkout with checker 5
+3040: s115 paid $255 for 85 items to checker 0
+3040: s793 started checkout with checker 0
+3044: s981 paid $216 for 72 items to checker 7
+3044: s572 started checkout with checker 7
+3048: s572 stole $891 and 26 items from checker 7
+3048: s179 started checkout with checker 7
+3051: s56 paid $75 for 25 items to checker 8
+3051: s874 started checkout with checker 8
+3053: s870 paid $147 for 49 items to checker 3
+3053: s677 started checkout with checker 3
+3062: s677 paid $27 for 9 items to checker 3
+3062: s276 started checkout with checker 3
+3063: s988 paid $216 for 72 items to checker 1
+3063: s840 started checkout with checker 1
+3069: s793 paid $87 for 29 items to checker 0
+3069: s804 started checkout with checker 0
+3075: s74 paid $135 for 45 items to checker 6
+3075: s891 started checkout with checker 6
+3076: s684 paid $186 for 62 items to checker 4
+3076: s474 started checkout with checker 4
+3098: s891 paid $69 for 23 items to checker 6
+3098: s70 started checkout with checker 6
+3105: s840 paid $126 for 42 items to checker 1
+3105: s871 started checkout with checker 1
+3106: s360 paid $282 for 94 items to checker 2
+3106: s718 started checkout with checker 2
+3111: s632 paid $276 for 92 items to checker 9
+3111: s964 started checkout with checker 9
+3112: s804 paid $129 for 43 items to checker 0
+3112: s971 started checkout with checker 0
+3115: s276 paid $159 for 53 items to checker 3
+3115: s221 started checkout with checker 3
+3120: s718 paid $42 for 14 items to checker 2
+3120: s64 started checkout with checker 2
+3121: s221 paid $18 for 6 items to checker 3
+3121: s663 started checkout with checker 3
+3127: s605 paid $273 for 91 items to checker 5
+3127: s402 started checkout with checker 5
+3130: s971 paid $54 for 18 items to checker 0
+3130: s163 started checkout with checker 0
+3131: s402 stole $273 and 81 items from checker 5
+3131: s697 started checkout with checker 5
+3134: s871 paid $87 for 29 items to checker 1
+3134: s542 started checkout with checker 1
+3139: s64 paid $57 for 19 items to checker 2
+3139: s653 started checkout with checker 2
+3140: s874 paid $267 for 89 items to checker 8
+3140: s996 started checkout with checker 8
+3142: s179 paid $282 for 94 items to checker 7
+3142: s480 started checkout with checker 7
+3143: s653 stole $858 and 55 items from checker 2
+3143: s292 started checkout with checker 2
+3146: s480 stole $282 and 36 items from checker 7
+3146: s484 started checkout with checker 7
+3148: s292 paid $15 for 5 items to checker 2
+3148: s100 started checkout with checker 2
+3150: s484 stole $0 and 66 items from checker 7
+3150: s833 started checkout with checker 7
+3168: s697 paid $111 for 37 items to checker 5
+3168: s70 paid $210 for 70 items to checker 6
+3168: s273 started checkout with checker 5
+3168: s719 started checkout with checker 6
+3172: s474 paid $288 for 96 items to checker 4
+3172: s830 started checkout with checker 4
+3175: s163 paid $135 for 45 items to checker 0
+3175: s551 started checkout with checker 0
+3189: s273 paid $63 for 21 items to checker 5
+3189: s231 started checkout with checker 5
+3193: s833 paid $129 for 43 items to checker 7
+3193: s842 started checkout with checker 7
+3197: s542 paid $189 for 63 items to checker 1
+3197: s964 paid $258 for 86 items to checker 9
+3197: s10 started checkout with checker 1
+3197: s419 started checkout with checker 9
+3199: s996 paid $177 for 59 items to checker 8
+3199: s416 started checkout with checker 8
+3200: s663 paid $237 for 79 items to checker 3
+3200: s955 started checkout with checker 3
+3201: s10 stole $2649 and 23 items from checker 1
+3201: s812 started checkout with checker 1
+3203: s231 paid $42 for 14 items to checker 5
+3203: s416 stole $1398 and 55 items from checker 8
+3203: s406 started checkout with checker 5
+3203: s107 started checkout with checker 8
+3207: s406 stole $216 and 74 items from checker 5
+3207: s791 started checkout with checker 5
+3225: s100 paid $231 for 77 items to checker 2
+3225: s356 started checkout with checker 2
+3227: s551 paid $156 for 52 items to checker 0
+3227: s983 started checkout with checker 0
+3229: s719 paid $183 for 61 items to checker 6
+3229: s415 started checkout with checker 6
+3232: s842 paid $117 for 39 items to checker 7
+3232: s1 started checkout with checker 7
+3249: s955 paid $147 for 49 items to checker 3
+3249: s556 started checkout with checker 3
+3253: s830 paid $243 for 81 items to checker 4
+3253: s244 started checkout with checker 4
+3259: s244 paid $18 for 6 items to checker 4
+3259: s609 started checkout with checker 4
+3263: s609 stole $1209 and 1 item from checker 4
+3263: s706 started checkout with checker 4
+3265: s791 paid $174 for 58 items to checker 5
+3265: s538 started checkout with checker 5
+3267: s706 stole $0 and 78 items from checker 4
+3267: s419 paid $210 for 70 items to checker 9
+3267: s578 started checkout with checker 4
+3267: s821 started checkout with checker 9
+3268: s538 paid $9 for 3 items to checker 5
+3268: s1 paid $108 for 36 items to checker 7
+3268: s768 started checkout with checker 5
+3268: s861 started checkout with checker 7
+3272: s861 stole $354 and 96 items from checker 7
+3272: s324 started checkout with checker 7
+3273: s415 paid $132 for 44 items to checker 6
+3273: s743 started checkout with checker 6
+3275: s356 paid $150 for 50 items to checker 2
+3275: s218 started checkout with checker 2
+3276: s107 paid $219 for 73 items to checker 8
+3276: s223 started checkout with checker 8
+3277: s768 paid $27 for 9 items to checker 5
+3277: s507 started checkout with checker 5
+3278: s743 paid $15 for 5 items to checker 6
+3278: s568 started checkout with checker 6
+3279: s812 paid $234 for 78 items to checker 1
+3279: s245 started checkout with checker 1
+3283: s245 paid $12 for 4 items to checker 1
+3283: s741 started checkout with checker 1
+3284: s507 paid $21 for 7 items to checker 5
+3284: s603 started checkout with checker 5
+3296: s556 paid $141 for 47 items to checker 3
+3296: s701 started checkout with checker 3
+3310: s821 paid $129 for 43 items to checker 9
+3310: s494 started checkout with checker 9
+3311: s223 paid $105 for 35 items to checker 8
+3311: s424 started checkout with checker 8
+3314: s983 paid $261 for 87 items to checker 0
+3314: s598 started checkout with checker 0
+3333: s218 paid $174 for 58 items to checker 2
+3333: s755 started checkout with checker 2
+3337: s578 paid $210 for 70 items to checker 4
+3337: s503 started checkout with checker 4
+3341: s503 stole $210 and 1 item from checker 4
+3341: s324 paid $207 for 69 items to checker 7
+3341: s393 started checkout with checker 4
+3341: s315 started checkout with checker 7
+3343: s603 paid $177 for 59 items to checker 5
+3343: s554 started checkout with checker 5
+3347: s701 paid $153 for 51 items to checker 3
+3347: s81 started checkout with checker 3
+3349: s424 paid $114 for 38 items to checker 8
+3349: s835 started checkout with checker 8
+3367: s755 paid $102 for 34 items to checker 2
+3367: s915 started checkout with checker 2
+3368: s315 paid $81 for 27 items to checker 7
+3368: s72 started checkout with checker 7
+3371: s568 paid $279 for 93 items to checker 6
+3371: s298 started checkout with checker 6
+3374: s741 paid $273 for 91 items to checker 1
+3374: s336 started checkout with checker 1
+3376: s598 paid $186 for 62 items to checker 0
+3376: s924 started checkout with checker 0
+3409: s494 paid $297 for 99 items to checker 9
+3409: s481 started checkout with checker 9
+3411: s924 paid $105 for 35 items to checker 0
+3411: s84 started checkout with checker 0
+3413: s835 paid $192 for 64 items to checker 8
+3413: s734 started checkout with checker 8
+3416: s81 paid $207 for 69 items to checker 3
+3416: s481 paid $21 for 7 items to checker 9
+3416: s138 started checkout with checker 3
+3416: s466 started checkout with checker 9
+3420: s466 paid $12 for 4 items to checker 9
+3420: s974 started checkout with checker 9
+3422: s393 paid $243 for 81 items to checker 4
+3422: s110 started checkout with checker 4
+3426: s915 paid $177 for 59 items to checker 2
+3426: s110 stole $243 and 41 items from checker 4
+3426: s298 paid $165 for 55 items to checker 6
+3426: s395 started checkout with checker 2
+3426: s690 started checkout with checker 4
+3426: s638 started checkout with checker 6
+3430: s690 stole $0 and 52 items from checker 4
+3430: s979 started checkout with checker 4
+3437: s336 paid $189 for 63 items to checker 1
+3437: s552 started checkout with checker 1
+3439: s72 paid $213 for 71 items to checker 7
+3439: s860 started checkout with checker 7
+3440: s734 paid $81 for 27 items to checker 8
+3440: s512 started checkout with checker 8
+3441: s512 paid $3 for 1 item to checker 8
+3441: s296 started checkout with checker 8
+3443: s554 paid $300 for 100 items to checker 5
+3443: s860 stole $501 and 10 items from checker 7
+3443: s678 started checkout with checker 5
+3443: s516 started checkout with checker 7
+3449: s552 paid $36 for 12 items to checker 1
+3449: s490 started checkout with checker 1
+3469: s678 paid $78 for 26 items to checker 5
+3469: s666 started checkout with checker 5
+3472: s638 paid $138 for 46 items to checker 6
+3472: s920 started checkout with checker 6
+3478: s974 paid $174 for 58 items to checker 9
+3478: s467 started checkout with checker 9
+3484: s138 paid $204 for 68 items to checker 3
+3484: s103 started checkout with checker 3
+3490: s84 paid $237 for 79 items to checker 0
+3490: s863 started checkout with checker 0
+3493: s490 paid $132 for 44 items to checker 1
+3493: s175 started checkout with checker 1
+3497: s103 paid $39 for 13 items to checker 3
+3497: s102 started checkout with checker 3
+3506: s666 paid $111 for 37 items to checker 5
+3506: s999 started checkout with checker 5
+3509: s516 paid $198 for 66 items to checker 7
+3509: s124 started checkout with checker 7
+3510: s395 paid $252 for 84 items to checker 2
+3510: s581 started checkout with checker 2
+3513: s124 stole $198 and 74 items from checker 7
+3513: s766 started checkout with checker 7
+3517: s766 stole $0 and 87 items from checker 7
+3517: s234 started checkout with checker 7
+3521: s467 paid $129 for 43 items to checker 9
+3521: s776 started checkout with checker 9
+3523: s979 paid $279 for 93 items to checker 4
+3523: s594 started checkout with checker 4
+3527: s581 paid $51 for 17 items to checker 2
+3527: s681 started checkout with checker 2
+3530: s776 paid $27 for 9 items to checker 9
+3530: s789 started checkout with checker 9
+3531: s681 stole $1152 and 64 items from checker 2
+3531: s599 started checkout with checker 2
+3537: s863 paid $141 for 47 items to checker 0
+3537: s296 paid $288 for 96 items to checker 8
+3537: s394 started checkout with checker 0
+3537: s168 started checkout with checker 8
+3548: s394 paid $33 for 11 items to checker 0
+3548: s189 started checkout with checker 0
+3569: s920 paid $291 for 97 items to checker 6
+3569: s76 started checkout with checker 6
+3577: s102 paid $240 for 80 items to checker 3
+3577: s119 started checkout with checker 3
+3579: s999 paid $219 for 73 items to checker 5
+3579: s913 started checkout with checker 5
+3586: s189 paid $114 for 38 items to checker 0
+3586: s620 started checkout with checker 0
+3588: s175 paid $285 for 95 items to checker 1
+3588: s789 paid $174 for 58 items to checker 9
+3588: s763 started checkout with checker 1
+3588: s818 started checkout with checker 9
+3591: s119 paid $42 for 14 items to checker 3
+3591: s604 started checkout with checker 3
+3597: s913 paid $54 for 18 items to checker 5
+3597: s226 started checkout with checker 5
+3603: s599 paid $216 for 72 items to checker 2
+3603: s226 paid $18 for 6 items to checker 5
+3603: s366 started checkout with checker 2
+3603: s796 started checkout with checker 5
+3605: s594 paid $246 for 82 items to checker 4
+3605: s926 started checkout with checker 4
+3607: s796 stole $1188 and 49 items from checker 5
+3607: s59 started checkout with checker 5
+3609: s604 paid $54 for 18 items to checker 3
+3609: s926 stole $525 and 19 items from checker 4
+3609: s757 started checkout with checker 3
+3609: s752 started checkout with checker 4
+3612: s234 paid $285 for 95 items to checker 7
+3612: s444 started checkout with checker 7
+3613: s763 paid $75 for 25 items to checker 1
+3613: s818 paid $75 for 25 items to checker 9
+3613: s243 started checkout with checker 1
+3613: s33 started checkout with checker 9
+3616: s444 stole $285 and 96 items from checker 7
+3616: s326 started checkout with checker 7
+3617: s33 stole $1782 and 71 items from checker 9
+3617: s187 started checkout with checker 9
+3619: s168 paid $246 for 82 items to checker 8
+3619: s311 started checkout with checker 8
+3635: s620 paid $147 for 49 items to checker 0
+3635: s202 started checkout with checker 0
+3639: s76 paid $210 for 70 items to checker 6
+3639: s739 started checkout with checker 6
+3644: s59 paid $111 for 37 items to checker 5
+3644: s69 started checkout with checker 5
+3645: s311 paid $78 for 26 items to checker 8
+3645: s93 started checkout with checker 8
+3646: s757 paid $111 for 37 items to checker 3
+3646: s989 started checkout with checker 3
+3659: s752 paid $150 for 50 items to checker 4
+3659: s597 started checkout with checker 4
+3663: s69 paid $57 for 19 items to checker 5
+3663: s457 started checkout with checker 5
+3666: s457 paid $9 for 3 items to checker 5
+3666: s26 started checkout with checker 5
+3672: s366 paid $207 for 69 items to checker 2
+3672: s815 started checkout with checker 2
+3676: s93 paid $93 for 31 items to checker 8
+3676: s459 started checkout with checker 8
+3680: s739 paid $123 for 41 items to checker 6
+3680: s97 started checkout with checker 6
+3682: s989 paid $108 for 36 items to checker 3
+3682: s597 paid $69 for 23 items to checker 4
+3682: s101 started checkout with checker 3
+3682: s993 started checkout with checker 4
+3683: s326 paid $201 for 67 items to checker 7
+3683: s948 started checkout with checker 7
+3687: s243 paid $222 for 74 items to checker 1
+3687: s585 started checkout with checker 1
+3690: s101 paid $24 for 8 items to checker 3
+3690: s390 started checkout with checker 3
+3696: s390 paid $18 for 6 items to checker 3
+3696: s125 started checkout with checker 3
+3702: s187 paid $255 for 85 items to checker 9
+3702: s771 started checkout with checker 9
+3709: s202 paid $222 for 74 items to checker 0
+3709: s805 started checkout with checker 0
+3710: s771 paid $24 for 8 items to checker 9
+3710: s186 started checkout with checker 9
+3711: s948 paid $84 for 28 items to checker 7
+3711: s868 started checkout with checker 7
+3725: s993 paid $129 for 43 items to checker 4
+3725: s317 started checkout with checker 4
+3729: s317 stole $348 and 29 items from checker 4
+3729: s113 started checkout with checker 4
+3734: s805 paid $75 for 25 items to checker 0
+3734: s426 started checkout with checker 0
+3739: s426 paid $15 for 5 items to checker 0
+3739: s215 started checkout with checker 0
+3748: s459 paid $216 for 72 items to checker 8
+3748: s344 started checkout with checker 8
+3749: s97 paid $207 for 69 items to checker 6
+3749: s186 paid $117 for 39 items to checker 9
+3749: s533 started checkout with checker 6
+3749: s338 started checkout with checker 9
+3752: s125 paid $168 for 56 items to checker 3
+3752: s344 stole $1635 and 72 items from checker 8
+3752: s635 started checkout with checker 3
+3752: s991 started checkout with checker 8
+3754: s113 paid $75 for 25 items to checker 4
+3754: s26 paid $264 for 88 items to checker 5
+3754: s595 started checkout with checker 4
+3754: s160 started checkout with checker 5
+3756: s815 paid $252 for 84 items to checker 2
+3756: s595 paid $6 for 2 items to checker 4
+3756: s685 started checkout with checker 2
+3756: s530 started checkout with checker 4
+3758: s685 paid $6 for 2 items to checker 2
+3758: s341 started checkout with checker 2
+3759: s868 paid $144 for 48 items to checker 7
+3759: s908 started checkout with checker 7
+3763: s908 stole $429 and 22 items from checker 7
+3763: s438 started checkout with checker 7
+3768: s991 paid $48 for 16 items to checker 8
+3768: s541 started checkout with checker 8
+3775: s635 paid $69 for 23 items to checker 3
+3775: s488 started checkout with checker 3
+3783: s585 paid $288 for 96 items to checker 1
+3783: s517 started checkout with checker 1
+3793: s160 paid $117 for 39 items to checker 5
+3793: s534 started checkout with checker 5
+3797: s541 paid $87 for 29 items to checker 8
+3797: s478 started checkout with checker 8
+3807: s488 paid $96 for 32 items to checker 3
+3807: s673 started checkout with checker 3
+3810: s517 paid $81 for 27 items to checker 1
+3810: s227 started checkout with checker 1
+3812: s338 paid $189 for 63 items to checker 9
+3812: s593 started checkout with checker 9
+3819: s215 paid $240 for 80 items to checker 0
+3819: s530 paid $189 for 63 items to checker 4
+3819: s533 paid $210 for 70 items to checker 6
+3819: s323 started checkout with checker 0
+3819: s247 started checkout with checker 4
+3819: s652 started checkout with checker 6
+3823: s341 paid $195 for 65 items to checker 2
+3823: s247 stole $270 and 21 items from checker 4
+3823: s18 started checkout with checker 2
+3823: s661 started checkout with checker 4
+3827: s673 paid $60 for 20 items to checker 3
+3827: s661 stole $0 and 18 items from checker 4
+3827: s738 started checkout with checker 3
+3827: s293 started checkout with checker 4
+3837: s323 paid $54 for 18 items to checker 0
+3837: s951 started checkout with checker 0
+3838: s951 paid $3 for 1 item to checker 0
+3838: s588 started checkout with checker 0
+3844: s438 paid $243 for 81 items to checker 7
+3844: s735 started checkout with checker 7
+3870: s735 paid $78 for 26 items to checker 7
+3870: s727 started checkout with checker 7
+3873: s652 paid $162 for 54 items to checker 6
+3873: s995 started checkout with checker 6
+3878: s534 paid $255 for 85 items to checker 5
+3878: s428 started checkout with checker 5
+3879: s293 paid $156 for 52 items to checker 4
+3879: s593 paid $201 for 67 items to checker 9
+3879: s858 started checkout with checker 4
+3879: s433 started checkout with checker 9
+3883: s18 paid $180 for 60 items to checker 2
+3883: s695 started checkout with checker 2
+3890: s478 paid $279 for 93 items to checker 8
+3890: s123 started checkout with checker 8
+3893: s588 paid $165 for 55 items to checker 0
+3893: s227 paid $249 for 83 items to checker 1
+3893: s127 started checkout with checker 0
+3893: s567 started checkout with checker 1
+3895: s123 paid $15 for 5 items to checker 8
+3895: s327 started checkout with checker 8
+3899: s127 paid $18 for 6 items to checker 0
+3899: s563 started checkout with checker 0
+3905: s995 paid $96 for 32 items to checker 6
+3905: s448 started checkout with checker 6
+3912: s738 paid $255 for 85 items to checker 3
+3912: s795 started checkout with checker 3
+3923: s567 paid $90 for 30 items to checker 1
+3923: s705 started checkout with checker 1
+3924: s327 paid $87 for 29 items to checker 8
+3924: s94 started checkout with checker 8
+3925: s727 paid $165 for 55 items to checker 7
+3925: s864 started checkout with checker 7
+3931: s433 paid $156 for 52 items to checker 9
+3931: s272 started checkout with checker 9
+3943: s858 paid $192 for 64 items to checker 4
+3943: s786 started checkout with checker 4
+3947: s695 paid $192 for 64 items to checker 2
+3947: s220 started checkout with checker 2
+3949: s448 paid $132 for 44 items to checker 6
+3949: s134 started checkout with checker 6
+3955: s864 paid $90 for 30 items to checker 7
+3955: s853 started checkout with checker 7
+3958: s705 paid $105 for 35 items to checker 1
+3958: s462 started checkout with checker 1
+3959: s853 stole $576 and 40 items from checker 7
+3959: s788 started checkout with checker 7
+3960: s272 paid $87 for 29 items to checker 9
+3960: s80 started checkout with checker 9
+3962: s786 paid $57 for 19 items to checker 4
+3962: s702 started checkout with checker 4
+3964: s563 paid $195 for 65 items to checker 0
+3964: s367 started checkout with checker 0
+3971: s428 paid $279 for 93 items to checker 5
+3971: s851 started checkout with checker 5
+3978: s795 paid $198 for 66 items to checker 3
+3978: s753 started checkout with checker 3
+3984: s220 paid $111 for 37 items to checker 2
+3984: s764 started checkout with checker 2
+3985: s462 paid $81 for 27 items to checker 1
+3985: s94 paid $183 for 61 items to checker 8
+3985: s682 started checkout with checker 1
+3985: s760 started checkout with checker 8
+3988: s764 stole $1359 and 68 items from checker 2
+3988: s381 started checkout with checker 2
+3992: s381 stole $0 and 69 items from checker 2
+3992: s925 started checkout with checker 2
+3996: s925 stole $0 and 53 items from checker 2
+3996: s359 started checkout with checker 2
+3998: s367 paid $102 for 34 items to checker 0
+3998: s0 started checkout with checker 0
+4000: s359 stole $0 and 36 items from checker 2
+4000: s282 started checkout with checker 2
+4008: s134 paid $177 for 59 items to checker 6
+4008: s875 started checkout with checker 6
+4013: s702 paid $153 for 51 items to checker 4
+4013: s464 started checkout with checker 4
+4027: s282 paid $81 for 27 items to checker 2
+4027: s288 started checkout with checker 2
+4037: s682 paid $156 for 52 items to checker 1
+4037: s642 started checkout with checker 1
+4042: s788 paid $249 for 83 items to checker 7
+4042: s760 paid $171 for 57 items to checker 8
+4042: s207 started checkout with checker 7
+4042: s659 started checkout with checker 8
+4043: s753 paid $195 for 65 items to checker 3
+4043: s851 paid $216 for 72 items to checker 5
+4043: s358 started checkout with checker 3
+4043: s397 started checkout with checker 5
+4059: s464 paid $138 for 46 items to checker 4
+4059: s691 started checkout with checker 4
+4060: s80 paid $300 for 100 items to checker 9
+4060: s977 started checkout with checker 9
+4068: s642 paid $93 for 31 items to checker 1
+4068: s365 started checkout with checker 1
+4076: s0 paid $234 for 78 items to checker 0
+4076: s543 started checkout with checker 0
+4077: s875 paid $207 for 69 items to checker 6
+4077: s14 started checkout with checker 6
+4090: s659 paid $144 for 48 items to checker 8
+4090: s607 started checkout with checker 8
+4094: s207 paid $156 for 52 items to checker 7
+4094: s548 started checkout with checker 7
+4098: s548 stole $405 and 95 items from checker 7
+4098: s958 started checkout with checker 7
+4101: s397 paid $174 for 58 items to checker 5
+4101: s129 started checkout with checker 5
+4102: s958 stole $0 and 84 items from checker 7
+4102: s526 started checkout with checker 7
+4106: s691 paid $141 for 47 items to checker 4
+4106: s178 started checkout with checker 4
+4108: s977 paid $144 for 48 items to checker 9
+4108: s975 started checkout with checker 9
+4112: s975 stole $1473 and 93 items from checker 9
+4112: s742 started checkout with checker 9
+4122: s288 paid $285 for 95 items to checker 2
+4122: s852 started checkout with checker 2
+4124: s365 paid $168 for 56 items to checker 1
+4124: s399 started checkout with checker 1
+4126: s852 stole $366 and 90 items from checker 2
+4126: s412 started checkout with checker 2
+4127: s358 paid $252 for 84 items to checker 3
+4127: s260 started checkout with checker 3
+4130: s412 stole $0 and 87 items from checker 2
+4130: s150 started checkout with checker 2
+4147: s526 paid $135 for 45 items to checker 7
+4147: s966 started checkout with checker 7
+4156: s129 paid $165 for 55 items to checker 5
+4156: s607 paid $198 for 66 items to checker 8
+4156: s29 started checkout with checker 5
+4156: s380 started checkout with checker 8
+4158: s178 paid $156 for 52 items to checker 4
+4158: s928 started checkout with checker 4
+4162: s14 paid $255 for 85 items to checker 6
+4162: s374 started checkout with checker 6
+4166: s374 stole $4773 and 90 items from checker 6
+4166: s20 started checkout with checker 6
+4173: s543 paid $291 for 97 items to checker 0
+4173: s790 started checkout with checker 0
+4177: s790 stole $4218 and 95 items from checker 0
+4177: s335 started checkout with checker 0
+4179: s742 paid $201 for 67 items to checker 9
+4179: s57 started checkout with checker 9
+4181: s335 stole $0 and 58 items from checker 0
+4181: s345 started checkout with checker 0
+4200: s966 paid $159 for 53 items to checker 7
+4200: s591 started checkout with checker 7
+4210: s260 paid $249 for 83 items to checker 3
+4210: s439 started checkout with checker 3
+4215: s399 paid $273 for 91 items to checker 1
+4215: s667 started checkout with checker 1
+4225: s150 paid $285 for 95 items to checker 2
+4225: s372 started checkout with checker 2
+4236: s57 paid $171 for 57 items to checker 9
+4236: s321 started checkout with checker 9
+4238: s345 paid $171 for 57 items to checker 0
+4238: s986 started checkout with checker 0
+4249: s380 paid $279 for 93 items to checker 8
+4249: s71 started checkout with checker 8
+4251: s928 paid $279 for 93 items to checker 4
+4251: s191 started checkout with checker 4
+4253: s20 paid $261 for 87 items to checker 6
+4253: s96 started checkout with checker 6
+4257: s96 stole $261 and 60 items from checker 6
+4257: s116 started checkout with checker 6
+4265: s439 paid $165 for 55 items to checker 3
+4265: s929 started checkout with checker 3
+4281: s591 paid $243 for 81 items to checker 7
+4281: s378 started checkout with checker 7
+4301: s372 paid $228 for 76 items to checker 2
+4301: s590 started checkout with checker 2
+4305: s986 paid $201 for 67 items to checker 0
+4305: s177 started checkout with checker 0
+4309: s177 stole $372 and 91 items from checker 0
+4309: s950 started checkout with checker 0
+4315: s667 paid $300 for 100 items to checker 1
+4315: s161 started checkout with checker 1
+4324: s321 paid $264 for 88 items to checker 9
+4324: s713 started checkout with checker 9
+4326: s29 paid $510 for 170 items to checker 5
+4326: s254 started checkout with checker 5
+4330: s116 paid $219 for 73 items to checker 6
+4330: s998 started checkout with checker 6
+4335: s191 paid $252 for 84 items to checker 4
+4335: s644 started checkout with checker 4
+4346: s71 paid $291 for 97 items to checker 8
+4346: s158 started checkout with checker 8
+4350: s158 stole $1782 and 86 items from checker 8
+4350: s844 started checkout with checker 8
+4353: s929 paid $264 for 88 items to checker 3
+4353: s435 started checkout with checker 3
+4363: s378 paid $246 for 82 items to checker 7
+4363: s376 started checkout with checker 7
+4398: s590 paid $291 for 97 items to checker 2
+4398: s275 started checkout with checker 2
+4399: s254 paid $219 for 73 items to checker 5
+4399: s892 started checkout with checker 5
+4400: s950 paid $273 for 91 items to checker 0
+4400: s145 started checkout with checker 0
+4405: s161 paid $270 for 90 items to checker 1
+4405: s297 started checkout with checker 1
+4407: s713 paid $249 for 83 items to checker 9
+4407: s696 started checkout with checker 9
+4409: s297 stole $3612 and 98 items from checker 1
+4409: s19 started checkout with checker 1
+4425: s644 paid $270 for 90 items to checker 4
+4425: s500 started checkout with checker 4
+4430: s998 paid $300 for 100 items to checker 6
+4430: s331 started checkout with checker 6
+4439: s844 paid $267 for 89 items to checker 8
+4439: s389 started checkout with checker 8
+4447: s376 paid $252 for 84 items to checker 7
+4447: s819 started checkout with checker 7
+4448: s435 paid $285 for 95 items to checker 3
+4448: s162 started checkout with checker 3
+4475: s275 paid $231 for 77 items to checker 2
+4475: s320 started checkout with checker 2
+4489: s145 paid $267 for 89 items to checker 0
+4489: s493 started checkout with checker 0
+4491: s19 paid $246 for 82 items to checker 1
+4492: s696 paid $255 for 85 items to checker 9
+4498: s892 paid $297 for 99 items to checker 5
+4514: s331 paid $252 for 84 items to checker 6
+4523: s500 paid $294 for 98 items to checker 4
+4532: s819 paid $255 for 85 items to checker 7
+4533: s389 paid $282 for 94 items to checker 8
+4541: s162 paid $279 for 93 items to checker 3
+4575: s320 paid $300 for 100 items to checker 2
+4584: s493 paid $285 for 95 items to checker 0
+registers[0] = $825
+registers[1] = $246
+registers[2] = $1335
+registers[3] = $5706
+registers[4] = $2088
+registers[5] = $2673
+registers[6] = $771
+registers[7] = $1290
+registers[8] = $549
+registers[9] = $1140
+time = 4585

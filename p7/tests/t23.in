@@ -1,0 +1,14 @@
+echo t23: Insert days of week into tree, then call balanced, rebalance, balanced, print
+insert Friday
+insert Monday
+insert Saturday
+insert Sunday
+insert Wednesday
+insert Thursday
+insert Tuesday
+breadth
+balanced
+echo calling rebalance
+rebalance
+breadth
+balanced

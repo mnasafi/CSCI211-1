@@ -1,0 +1,9 @@
+t08: Insert days of week into tree, then call find on several strings NOT in tree.
+Calling find on <Mon> (should NOT be in tree):
+<Mon> is not in tree.
+Calling find on <Sun> (should NOT be in tree):
+<Sun> is not in tree.
+Calling find on <December> (should NOT be in tree):
+<December> is not in tree.
+Calling find on <a> (should NOT be in tree):
+<a> is not in tree.

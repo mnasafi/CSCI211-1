@@ -1,0 +1,7 @@
+t25: Insert months into tree, then call balanced, rebalance, balanced, print
+t25: This is different from previous rebalance tests because there are an even number of elements
+{January, February, March, April, June, May, August, July, September, December, October, November}
+Tree is not balanced.
+calling rebalance
+{July, December, May, April, February, June, October, August, January, March, November, September}
+Tree is balanced.

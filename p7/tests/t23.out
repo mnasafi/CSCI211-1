@@ -1,0 +1,6 @@
+t23: Insert days of week into tree, then call balanced, rebalance, balanced, print
+{Friday, Monday, Saturday, Sunday, Wednesday, Thursday, Tuesday}
+Tree is not balanced.
+calling rebalance
+{Sunday, Monday, Tuesday, Friday, Saturday, Thursday, Wednesday}
+Tree is balanced.

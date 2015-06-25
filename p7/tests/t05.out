@@ -1,0 +1,4 @@
+t05: Insert days of week into tree, then print size.
+This size of the tree is:
+7
+Should have printed 7 on the previous line.

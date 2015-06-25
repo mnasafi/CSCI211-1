@@ -1,0 +1,3 @@
+t20: Insert days of week into tree, then call balanced
+{Tuesday, Thursday, Wednesday, Sunday, Saturday, Monday, Friday}
+Tree is not balanced.

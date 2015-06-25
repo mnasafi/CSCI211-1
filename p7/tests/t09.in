@@ -1,0 +1,9 @@
+echo t09: Insert days of week into tree, then call print
+insert Saturday
+insert Friday
+insert Tuesday
+insert Monday
+insert Thursday
+insert Wednesday
+insert Sunday
+print

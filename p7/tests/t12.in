@@ -1,0 +1,9 @@
+echo t12: Insert days of week into tree, then call breadth
+insert Saturday
+insert Friday
+insert Tuesday
+insert Monday
+insert Thursday
+insert Wednesday
+insert Sunday
+breadth

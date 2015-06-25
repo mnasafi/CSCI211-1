@@ -1,0 +1,4 @@
+target = 100
+less_than = 11
+equal = 0
+greater_than = 11

@@ -1,0 +1,173 @@
+#!/usr/bin/env bash
+
+# This bash script takes the name of the executable as the only command line
+# argument (e.g. chart)
+# It assumes that it is in the directory that contains your program.
+# It also assumes that you have a subdirectory named tests that contains
+# all of the posted tests and the expected result files.
+#
+# This script will create a new directory called results.  It will put 
+# the results of running the tests (.myout and .myerr files) into the 
+# results directory.  Then it will compare your output (.myout and .myerr
+# in the results directory) with the posted output (.out and .err in the 
+# tests directory).
+
+# I'm not a bash script expert, let me know if you see something that 
+# can be improved.
+
+# parse the single command line argument
+# it should be an executable
+if [ $# == 0 ] ; then
+    echo "Must specify the name of the program to be tested (e.g. run_all_tests chart)"
+    exit
+fi
+
+exe=./$1
+
+if [ ! -f $exe ] ; then
+    echo "Cannot find executable: $exe"
+    exit;
+fi
+
+if [ ! -x $exe ] ; then
+    echo "$exe does not have execute permission"
+    exit
+fi
+
+# this script assumes that the tests (t01, t02, t03, etc) are in the
+# directory ./tests (where . is the directory containing the executable and this script)
+test_dir=tests
+
+# this script puts the results in the directory ./results
+result_dir=results
+
+passed=0
+failed=0
+
+# create the results directory if it does not exist 
+#  (mkdir does nothing if it already exists.  the error will be ignored)
+mkdir $result_dir 2>/dev/null
+
+# every test must have an output file (.out)
+# assume that each file with the extension .out represent a test
+# run the executable for each tests that is in the test directory
+for test_file in $test_dir/*.out ; do
+    # delete prefix of path (/home/x/y/tests/foo.out --> foo.out)
+    test_name=${test_file##*/}
+    # delete the .out (foo.out --> foo)
+    test_name=${test_name%\.out}
+
+    # if the cmd file exists, need to read
+    if [ -f $test_dir/$test_name.cmd ] ; then
+      command_line_args=`cat $test_dir/$test_name.cmd`
+    else
+      command_line_args=""
+    fi
+
+    # if the error file exist (testname.err), the test is expecting error output
+    # below check to see if stderr is written directly by the program (file i/o)
+    #    and thus shoud NOT pipe stderr
+    if [ -f $test_dir/$test_name.err ] ; then
+      error_file_exists=true
+      pipe_stderr=true
+    else
+      error_file_exists=false
+      pipe_stderr=false
+    fi
+
+    # default is to pipe stdout to .myout file
+    # below check to see if stdout is written directly by the program (file i/o)
+    #    and thus shoud NOT pipe stdout
+    pipe_stdout=true
+
+    # remove old .myout and .myerr files from previous executions
+    rm -f $result_dir/$test_name.myout $result_dir/$test_name.myerr
+    # create empty .myout and .myerr files in case program fails
+    touch $result_dir/$test_name.myout 
+    touch $result_dir/$test_name.myerr
+
+    # if one of the command line arguments matches the .myout filename
+    #   the program must write directly to this file
+    #   thus the output should not be redirected to the .myout file
+    # same goes for the .myerr file
+    for cur_arg in $command_line_args ; do
+      if [ $cur_arg = $result_dir/$test_name.myout ] ; then
+        pipe_stdout=false
+      elif [ $cur_arg = $result_dir/$test_name.myerr ] ; then
+        pipe_stderr=false
+      fi
+    done
+
+
+    # if the test expects both stdout and stderr to be redirected
+    if $pipe_stdout && $pipe_stderr ; then
+      $exe < $test_dir/$test_name.in $command_line_args > $result_dir/$test_name.myout 2> $result_dir/$test_name.myerr 
+    # if the test expects only stdout to be redirected
+    elif $pipe_stdout ; then
+      $exe < $test_dir/$test_name.in $command_line_args > $result_dir/$test_name.myout 2> /dev/null
+    # if the test expects only stdout to be redirected (output written by program to a file)
+    elif $pipe_stderr ; then
+      $exe < $test_dir/$test_name.in $command_line_args > /dev/null 2> $result_dir/$test_name.myerr 
+    # if the program expects neither stdout or stderr to be redirected
+    else
+      $exe < $test_dir/$test_name.in $command_line_args > /dev/null 2> /dev/null
+    fi
+
+    # check the exit status (only if a .exit file exists for this test)
+    exit_status=$?
+    if [ -f $test_dir/$test_name.exit ] ; then
+        echo $exit_status > $result_dir/$test_name.myexit
+        expected_exit_status=`cat $test_dir/$test_name.exit`
+        if [ $exit_status == $expected_exit_status ] ; then
+          correct_exit_status=true
+        else
+          correct_exit_status=false
+        fi
+    else
+      # exit status is not checked, mark it correct to avoid error
+      correct_exit_status=true
+    fi
+
+    # check that the standard output of this program matches the correct output
+    if diff $result_dir/$test_name.myout $test_dir/$test_name.out >& /dev/null ; then
+        correct_stdout=true
+    else
+        correct_stdout=false
+    fi
+
+    # if stderr output is required
+    # check if standard error of this program matches the correct error output
+    if $error_file_exists && ! diff $result_dir/$test_name.myerr $test_dir/$test_name.err >& /dev/null ; then
+        # set to false if there is a standard error file and the program's
+        # output does not match the test case
+        correct_stderr=false
+    else
+        # set to true if there is no standard error file
+        correct_stderr=true
+    fi
+
+    if $correct_stdout && $correct_stderr && $correct_exit_status ; then
+        (( passed++ ))
+        echo "Passed $test_name"
+    else
+        (( failed++ ))
+        error_message=""
+        if ! $correct_stdout ; then 
+          error_message="$error_message (stdout incorrect)"
+        fi
+        if ! $correct_stderr ; then 
+          error_message="$error_message (stderr incorrect)"
+        fi
+        if ! $correct_exit_status ; then 
+          error_message="$error_message (exit_status incorrect)"
+        fi
+
+        echo "Failed $test_name $error_message"
+    fi  
+
+done
+
+total=$passed
+(( total += failed ))
+echo "Passed $passed out of $total tests."
+echo "Failed $failed out of $total tests."

@@ -1,0 +1,2 @@
+echo t02: Insert "Hello world." into tree. Print nothing.
+insert Hello world.

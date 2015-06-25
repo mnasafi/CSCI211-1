@@ -1,0 +1,4 @@
+t01: Using echo to print strings.
+Each string should be printed on its own line.
+Strings can contain spaces, tabs, and special characters (!@#$%^&, etc).
+Spaces <      >, a tab < >.

@@ -1,0 +1,2 @@
+t12: Insert days of week into tree, then call breadth
+{Saturday, Friday, Tuesday, Monday, Thursday, Wednesday, Sunday}

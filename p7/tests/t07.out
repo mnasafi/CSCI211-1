@@ -1,0 +1,3 @@
+t07: Insert days of week into tree, then call find on a string NOT in tree.
+Calling find on <April> (should NOT be in tree):
+<April> is not in tree.

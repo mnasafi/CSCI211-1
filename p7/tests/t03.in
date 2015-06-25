@@ -1,0 +1,4 @@
+echo t03: Insert "Hello world." into tree twice.
+insert Hello world.
+echo Inserting "Hello world." the second time, should print error.
+insert Hello world.

@@ -1,0 +1,3 @@
+echo t41: an illegal command with arguments
+yikes here are some bad arguments
+echo end of test (to make sure you did not give up w/the illegal command)

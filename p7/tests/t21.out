@@ -1,0 +1,3 @@
+t21: Insert days of week into tree, then call balanced
+{Sunday, Monday, Tuesday, Friday, Saturday, Thursday, Wednesday}
+Tree is balanced.

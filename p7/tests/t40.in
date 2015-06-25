@@ -1,0 +1,3 @@
+echo t40: an illegal command without arguments
+yikes
+echo end of test (to make sure you did not give up w/the illegal command)

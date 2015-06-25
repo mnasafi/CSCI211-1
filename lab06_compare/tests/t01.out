@@ -1,0 +1,4 @@
+target = 42
+less_than = 0
+equal = 0
+greater_than = 0

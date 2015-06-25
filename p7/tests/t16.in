@@ -1,0 +1,9 @@
+echo t16: Insert days of week into tree, then call distance
+insert Friday
+insert Monday
+insert Saturday
+insert Sunday
+insert Wednesday
+insert Thursday
+insert Tuesday
+distance

@@ -1,0 +1,36 @@
+#!/usr/bin/env bash
+
+
+test_output_file=tests/t$1.out
+result_output_file=results/t$1.myout
+
+if [ ! -f $test_output_file ] && [ ! -f $result_output_file ] ; then
+  test_output_file=tests/t0$1.out
+  result_output_file=results/t0$1.myout
+fi
+
+if [ ! -f $test_output_file ] && [ ! -f $result_output_file ] ; then
+  test_output_file=tests/t00$1.out
+  result_output_file=results/t00$1.myout
+fi
+
+if [ ! -f $test_output_file ] && [ ! -f $result_output_file ] ; then
+  echo "tests/t$1.out AND tests/t$1.myout do not exist"
+  exit 1
+fi
+
+if [ ! -f $test_output_file ] ; then
+  echo "$test_output_file does not exist"
+  exit 1
+fi
+
+if [ ! -f $result_output_file ] ; then
+  echo "$result_output_file does not exist"
+  exit 1
+fi
+
+if diff $test_output_file $result_output_file ; then
+  echo "Files match"
+else
+  vimdiff $test_output_file $result_output_file
+fi

@@ -1,0 +1,10 @@
+echo t20: Insert days of week into tree, then call balanced
+insert Tuesday
+insert Thursday
+insert Wednesday
+insert Sunday
+insert Saturday
+insert Monday
+insert Friday
+breadth
+balanced

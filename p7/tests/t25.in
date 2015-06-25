@@ -1,0 +1,20 @@
+echo t25: Insert months into tree, then call balanced, rebalance, balanced, print
+echo t25: This is different from previous rebalance tests because there are an even number of elements
+insert January
+insert February
+insert March
+insert April
+insert May
+insert June
+insert July
+insert August
+insert September
+insert October
+insert November
+insert December
+breadth
+balanced
+echo calling rebalance
+rebalance
+breadth
+balanced

@@ -1,0 +1,15 @@
+t06: Insert days of week into tree, then call find on strings that should be in the tree.
+Calling find on <Monday> (should be in tree):
+<Monday> is in tree.
+Calling find on <Tuesday> (should be in tree):
+<Tuesday> is in tree.
+Calling find on <Wednesday> (should be in tree):
+<Wednesday> is in tree.
+Calling find on <Thursday> (should be in tree):
+<Thursday> is in tree.
+Calling find on <Friday> (should be in tree):
+<Friday> is in tree.
+Calling find on <Saturday> (should be in tree):
+<Saturday> is in tree.
+Calling find on <Sunday> (should be in tree):
+<Sunday> is in tree.

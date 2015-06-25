@@ -1,0 +1,5 @@
+t30: Insert 4998 unique strings from the Simpson's into tree, then call the size and balanced commands.
+Calling size, should print 4989:
+4989
+Calling balanced, tree is NOT balanced:
+Tree is not balanced.

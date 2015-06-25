@@ -1,0 +1,22 @@
+echo t06: Insert days of week into tree, then call find on strings that should be in the tree.
+insert Saturday
+insert Friday
+insert Tuesday
+insert Monday
+insert Thursday
+insert Wednesday
+insert Sunday
+echo Calling find on <Monday> (should be in tree):
+find Monday
+echo Calling find on <Tuesday> (should be in tree):
+find Tuesday
+echo Calling find on <Wednesday> (should be in tree):
+find Wednesday
+echo Calling find on <Thursday> (should be in tree):
+find Thursday
+echo Calling find on <Friday> (should be in tree):
+find Friday
+echo Calling find on <Saturday> (should be in tree):
+find Saturday
+echo Calling find on <Sunday> (should be in tree):
+find Sunday

@@ -1,0 +1,10 @@
+echo t07: Insert days of week into tree, then call find on a string NOT in tree.
+insert Saturday
+insert Friday
+insert Tuesday
+insert Monday
+insert Thursday
+insert Wednesday
+insert Sunday
+echo Calling find on <April> (should NOT be in tree):
+find April

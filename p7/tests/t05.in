@@ -1,0 +1,11 @@
+echo t05: Insert days of week into tree, then print size.
+insert Saturday
+insert Friday
+insert Tuesday
+insert Monday
+insert Thursday
+insert Wednesday
+insert Sunday
+echo This size of the tree is:
+size
+echo Should have printed 7 on the previous line.
